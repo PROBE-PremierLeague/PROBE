@@ -1,0 +1,39 @@
+title: PROBE
+email: your-team@example.com
+description: >- 
+  Poisson-Regressed Observations of Big-Six Evolution in Premier League.
+  Interactive dashboard for Premier League data analysis and prediction.
+
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+plugins:
+  - jekyll-feed
+
+# Exclude from processing
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - src/
+  - model/
+  - requirements.txt
+  - "*.py"
+
+# Include additional files
+include:
+  - docs/
+
+# Collections (if needed)
+collections_dir: docs
