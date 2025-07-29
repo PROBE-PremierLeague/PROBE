@@ -1,0 +1,381 @@
+home_team,away_team,P_home_win,P_draw,P_away_win
+Arsenal,Aston Villa,0.7312,0.1785,0.0903
+Arsenal,Cardiff,0.832,0.1274,0.0405
+Arsenal,Chelsea,0.4115,0.2535,0.3351
+Arsenal,Crystal Palace,0.7315,0.2048,0.0637
+Arsenal,Everton,0.5222,0.2441,0.2336
+Arsenal,Fulham,0.8229,0.1223,0.0546
+Arsenal,Hull,0.7516,0.191,0.0574
+Arsenal,Liverpool,0.3724,0.2038,0.4238
+Arsenal,Man City,0.2844,0.2099,0.5057
+Arsenal,Man United,0.5063,0.241,0.2527
+Arsenal,Newcastle,0.7086,0.1899,0.1015
+Arsenal,Norwich,0.7909,0.1693,0.0399
+Arsenal,Southampton,0.5908,0.2298,0.1795
+Arsenal,Stoke,0.6591,0.2161,0.1248
+Arsenal,Sunderland,0.7176,0.1834,0.0989
+Arsenal,Swansea,0.6235,0.2184,0.1581
+Arsenal,Tottenham,0.57,0.2409,0.1891
+Arsenal,West Brom,0.7136,0.1828,0.1037
+Arsenal,West Ham,0.7012,0.207,0.0918
+Aston Villa,Arsenal,0.1911,0.2292,0.5797
+Aston Villa,Cardiff,0.578,0.2257,0.1962
+Aston Villa,Chelsea,0.1642,0.2176,0.6182
+Aston Villa,Crystal Palace,0.4111,0.2964,0.2925
+Aston Villa,Everton,0.2458,0.2474,0.5068
+Aston Villa,Fulham,0.5881,0.2068,0.2051
+Aston Villa,Hull,0.4391,0.2872,0.2737
+Aston Villa,Liverpool,0.1737,0.1682,0.6579
+Aston Villa,Man City,0.1056,0.149,0.7453
+Aston Villa,Man United,0.2382,0.2384,0.5234
+Aston Villa,Newcastle,0.4214,0.2586,0.32
+Aston Villa,Norwich,0.4875,0.2774,0.2351
+Aston Villa,Southampton,0.3039,0.2581,0.438
+Aston Villa,Stoke,0.3601,0.2715,0.3685
+Aston Villa,Sunderland,0.4354,0.2534,0.3113
+Aston Villa,Swansea,0.3367,0.2579,0.4054
+Aston Villa,Tottenham,0.2794,0.2626,0.458
+Aston Villa,West Brom,0.4344,0.25,0.3156
+Aston Villa,West Ham,0.3939,0.2809,0.3252
+Cardiff,Arsenal,0.112,0.1871,0.7009
+Cardiff,Aston Villa,0.3284,0.2502,0.4214
+Cardiff,Chelsea,0.0924,0.1728,0.7349
+Cardiff,Crystal Palace,0.28,0.2864,0.4336
+Cardiff,Everton,0.1535,0.212,0.6344
+Cardiff,Fulham,0.4707,0.2231,0.3062
+Cardiff,Hull,0.307,0.2827,0.4103
+Cardiff,Liverpool,0.1123,0.1375,0.7499
+Cardiff,Man City,0.0588,0.1112,0.8297
+Cardiff,Man United,0.1494,0.2033,0.6473
+Cardiff,Newcastle,0.3018,0.2512,0.447
+Cardiff,Norwich,0.3519,0.282,0.3661
+Cardiff,Southampton,0.2002,0.2313,0.5684
+Cardiff,Stoke,0.2444,0.2531,0.5025
+Cardiff,Sunderland,0.3159,0.2483,0.4358
+Cardiff,Swansea,0.2285,0.2366,0.5348
+Cardiff,Tottenham,0.1781,0.231,0.591
+Cardiff,West Brom,0.3163,0.2449,0.4389
+Cardiff,West Ham,0.2704,0.2681,0.4615
+Chelsea,Arsenal,0.4893,0.2456,0.2651
+Chelsea,Aston Villa,0.7645,0.163,0.0725
+Chelsea,Cardiff,0.8584,0.1121,0.0295
+Chelsea,Crystal Palace,0.7696,0.1846,0.0458
+Chelsea,Everton,0.5619,0.2344,0.2036
+Chelsea,Fulham,0.8477,0.1092,0.043
+Chelsea,Hull,0.7878,0.1713,0.0409
+Chelsea,Liverpool,0.4039,0.2035,0.3926
+Chelsea,Man City,0.3155,0.2129,0.4716
+Chelsea,Man United,0.5453,0.2325,0.2222
+Chelsea,Newcastle,0.7433,0.1744,0.0822
+Chelsea,Norwich,0.8244,0.1495,0.0261
+Chelsea,Southampton,0.6296,0.2173,0.1531
+Chelsea,Stoke,0.6972,0.2006,0.1022
+Chelsea,Sunderland,0.7514,0.1683,0.0803
+Chelsea,Swansea,0.6612,0.2052,0.1336
+Chelsea,Tottenham,0.6101,0.2285,0.1614
+Chelsea,West Brom,0.7471,0.1681,0.0848
+Chelsea,West Ham,0.7388,0.1894,0.0718
+Crystal Palace,Arsenal,0.173,0.269,0.558
+Crystal Palace,Aston Villa,0.4652,0.2897,0.2451
+Crystal Palace,Cardiff,0.6099,0.2477,0.1424
+Crystal Palace,Chelsea,0.1437,0.2542,0.602
+Crystal Palace,Everton,0.2335,0.2918,0.4748
+Crystal Palace,Fulham,0.619,0.2218,0.1593
+Crystal Palace,Hull,0.4504,0.3446,0.205
+Crystal Palace,Liverpool,0.1656,0.1848,0.6495
+Crystal Palace,Man City,0.0907,0.1631,0.7461
+Crystal Palace,Man United,0.2265,0.2787,0.4949
+Crystal Palace,Newcastle,0.4329,0.2991,0.2679
+Crystal Palace,Norwich,0.5071,0.3277,0.1653
+Crystal Palace,Southampton,0.299,0.3039,0.3971
+Crystal Palace,Stoke,0.3615,0.3218,0.3168
+Crystal Palace,Sunderland,0.4492,0.2907,0.2601
+Crystal Palace,Swansea,0.3367,0.3016,0.3617
+Crystal Palace,Tottenham,0.2697,0.3128,0.4175
+Crystal Palace,West Brom,0.4482,0.2858,0.266
+Crystal Palace,West Ham,0.399,0.3356,0.2653
+Everton,Arsenal,0.3773,0.2591,0.3636
+Everton,Aston Villa,0.6657,0.2058,0.1285
+Everton,Cardiff,0.7781,0.1562,0.0657
+Everton,Chelsea,0.3405,0.2569,0.4026
+Everton,Crystal Palace,0.6561,0.2405,0.1034
+Everton,Fulham,0.7728,0.1468,0.0804
+Everton,Hull,0.6793,0.2264,0.0943
+Everton,Liverpool,0.3157,0.2016,0.4826
+Everton,Man City,0.2299,0.201,0.5691
+Everton,Man United,0.4339,0.2527,0.3133
+Everton,Newcastle,0.6405,0.2168,0.1426
+Everton,Norwich,0.7231,0.2055,0.0714
+Everton,Southampton,0.5171,0.2494,0.2335
+Everton,Stoke,0.5854,0.2423,0.1723
+Everton,Sunderland,0.6513,0.21,0.1387
+Everton,Swansea,0.5515,0.24,0.2085
+Everton,Tottenham,0.4942,0.26,0.2458
+Everton,West Brom,0.6478,0.2084,0.1438
+Everton,West Ham,0.6275,0.2377,0.1348
+Fulham,Arsenal,0.125,0.1734,0.7016
+Fulham,Aston Villa,0.3284,0.2293,0.4423
+Fulham,Cardiff,0.4431,0.2255,0.3314
+Fulham,Chelsea,0.1059,0.1611,0.733
+Fulham,Crystal Palace,0.2867,0.2555,0.4578
+Fulham,Everton,0.1651,0.1946,0.6403
+Fulham,Hull,0.3109,0.2535,0.4356
+Fulham,Liverpool,0.1195,0.1313,0.7486
+Fulham,Man City,0.0681,0.1079,0.8233
+Fulham,Man United,0.1604,0.1875,0.6521
+Fulham,Newcastle,0.3039,0.2295,0.4666
+Fulham,Norwich,0.3519,0.254,0.3941
+Fulham,Southampton,0.2093,0.2113,0.5794
+Fulham,Stoke,0.2514,0.2295,0.5191
+Fulham,Sunderland,0.3167,0.2275,0.4557
+Fulham,Swansea,0.2355,0.2163,0.5482
+Fulham,Tottenham,0.1892,0.2103,0.6005
+Fulham,West Brom,0.3169,0.2249,0.4583
+Fulham,West Ham,0.2764,0.2416,0.482
+Hull,Arsenal,0.1599,0.2564,0.5837
+Hull,Aston Villa,0.4407,0.287,0.2723
+Hull,Cardiff,0.5835,0.2509,0.1656
+Hull,Chelsea,0.1323,0.2412,0.6265
+Hull,Crystal Palace,0.3907,0.3536,0.2558
+Hull,Everton,0.2171,0.2804,0.5025
+Hull,Fulham,0.5947,0.2251,0.1802
+Hull,Liverpool,0.155,0.1774,0.6675
+Hull,Man City,0.0836,0.1542,0.7622
+Hull,Man United,0.2108,0.2678,0.5214
+Hull,Newcastle,0.409,0.295,0.296
+Hull,Norwich,0.4791,0.3254,0.1956
+Hull,Southampton,0.2797,0.2945,0.4258
+Hull,Stoke,0.3391,0.314,0.3469
+Hull,Sunderland,0.4252,0.2874,0.2874
+Hull,Swansea,0.316,0.2938,0.3901
+Hull,Tottenham,0.2513,0.3017,0.447
+Hull,West Brom,0.4245,0.2826,0.2929
+Hull,West Ham,0.3747,0.3287,0.2966
+Liverpool,Arsenal,0.554,0.1908,0.2552
+Liverpool,Aston Villa,0.773,0.1304,0.0963
+Liverpool,Cardiff,0.8475,0.0968,0.0549
+Liverpool,Chelsea,0.5216,0.195,0.2833
+Liverpool,Crystal Palace,0.7759,0.1401,0.084
+Liverpool,Everton,0.6133,0.1803,0.2063
+Liverpool,Fulham,0.841,0.0949,0.0627
+Liverpool,Hull,0.7897,0.1325,0.0776
+Liverpool,Man City,0.393,0.1832,0.4238
+Liverpool,Man United,0.5989,0.1807,0.2202
+Liverpool,Newcastle,0.7564,0.1377,0.1056
+Liverpool,Norwich,0.8175,0.1193,0.0629
+Liverpool,Southampton,0.6673,0.1672,0.1654
+Liverpool,Stoke,0.7206,0.1538,0.1254
+Liverpool,Sunderland,0.7628,0.134,0.1029
+Liverpool,Swansea,0.692,0.159,0.1488
+Liverpool,Tottenham,0.6526,0.1738,0.1735
+Liverpool,West Brom,0.7595,0.1342,0.106
+Liverpool,West Ham,0.7527,0.1451,0.1021
+Man City,Arsenal,0.6423,0.1823,0.1754
+Man City,Aston Villa,0.8516,0.1019,0.0462
+Man City,Cardiff,0.9133,0.0662,0.0197
+Man City,Chelsea,0.6088,0.1901,0.2011
+Man City,Crystal Palace,0.8634,0.1057,0.0308
+Man City,Everton,0.7025,0.1653,0.1322
+Man City,Fulham,0.9031,0.0679,0.0277
+Man City,Hull,0.8741,0.098,0.0277
+Man City,Liverpool,0.5415,0.1742,0.2841
+Man City,Man United,0.6866,0.1676,0.1457
+Man City,Newcastle,0.8377,0.1098,0.0523
+Man City,Norwich,0.8973,0.0836,0.019
+Man City,Southampton,0.7552,0.1466,0.098
+Man City,Stoke,0.8077,0.1273,0.0648
+Man City,Sunderland,0.8423,0.1063,0.0511
+Man City,Swansea,0.7781,0.1364,0.0853
+Man City,Tottenham,0.7428,0.154,0.1031
+Man City,West Brom,0.8385,0.1072,0.054
+Man City,West Ham,0.8392,0.1147,0.046
+Man United,Arsenal,0.396,0.252,0.352
+Man United,Aston Villa,0.6778,0.1967,0.1255
+Man United,Cardiff,0.786,0.1489,0.0651
+Man United,Chelsea,0.3595,0.2507,0.3898
+Man United,Crystal Palace,0.6704,0.2274,0.1023
+Man United,Everton,0.4661,0.2495,0.2845
+Man United,Fulham,0.7804,0.1407,0.0788
+Man United,Hull,0.6924,0.2141,0.0934
+Man United,Liverpool,0.3306,0.1995,0.4699
+Man United,Man City,0.2454,0.2003,0.5543
+Man United,Newcastle,0.6536,0.2073,0.1391
+Man United,Norwich,0.7343,0.1942,0.0715
+Man United,Southampton,0.5337,0.2399,0.2264
+Man United,Stoke,0.6008,0.2316,0.1676
+Man United,Sunderland,0.6638,0.2009,0.1353
+Man United,Swansea,0.5671,0.2306,0.2023
+Man United,Tottenham,0.5118,0.25,0.2382
+Man United,West Brom,0.6603,0.1996,0.1401
+Man United,West Ham,0.642,0.2261,0.1319
+Newcastle,Arsenal,0.2087,0.2385,0.5528
+Newcastle,Aston Villa,0.4761,0.2529,0.271
+Newcastle,Cardiff,0.6053,0.2212,0.1735
+Newcastle,Chelsea,0.1803,0.2275,0.5922
+Newcastle,Crystal Palace,0.44,0.2982,0.2618
+Newcastle,Everton,0.2663,0.255,0.4787
+Newcastle,Fulham,0.6135,0.2025,0.184
+Newcastle,Hull,0.4682,0.2877,0.2441
+Newcastle,Liverpool,0.1875,0.1748,0.6376
+Newcastle,Man City,0.1163,0.1572,0.7264
+Newcastle,Man United,0.2579,0.246,0.4961
+Newcastle,Norwich,0.5173,0.2757,0.207
+Newcastle,Southampton,0.3269,0.2636,0.4094
+Newcastle,Stoke,0.3856,0.2751,0.3393
+Newcastle,Sunderland,0.4616,0.2538,0.2845
+Newcastle,Swansea,0.3607,0.2621,0.3772
+Newcastle,Tottenham,0.302,0.2693,0.4287
+Newcastle,West Brom,0.4603,0.2506,0.2891
+Newcastle,West Ham,0.4211,0.2833,0.2955
+Norwich,Arsenal,0.1302,0.2394,0.6304
+Norwich,Aston Villa,0.3946,0.2885,0.3169
+Norwich,Cardiff,0.5365,0.2609,0.2026
+Norwich,Chelsea,0.1056,0.2228,0.6716
+Norwich,Crystal Palace,0.3394,0.3523,0.3083
+Norwich,Everton,0.1821,0.2667,0.5512
+Norwich,Fulham,0.5515,0.234,0.2144
+Norwich,Hull,0.3723,0.3406,0.2871
+Norwich,Liverpool,0.1325,0.1657,0.7017
+Norwich,Man City,0.0668,0.139,0.7941
+Norwich,Man United,0.1772,0.2542,0.5686
+Norwich,Newcastle,0.3634,0.2944,0.3423
+Norwich,Southampton,0.24,0.285,0.475
+Norwich,Stoke,0.2946,0.3084,0.397
+Norwich,Sunderland,0.3797,0.2878,0.3325
+Norwich,Swansea,0.2747,0.2869,0.4384
+Norwich,Tottenham,0.2124,0.2899,0.4977
+Norwich,West Brom,0.3797,0.2829,0.3375
+Norwich,West Ham,0.3269,0.3259,0.3473
+Southampton,Arsenal,0.3123,0.2583,0.4294
+Southampton,Aston Villa,0.5996,0.2278,0.1726
+Southampton,Cardiff,0.7207,0.1823,0.097
+Southampton,Chelsea,0.2779,0.2526,0.4694
+Southampton,Crystal Palace,0.5801,0.2687,0.1512
+Southampton,Everton,0.3797,0.2639,0.3564
+Southampton,Fulham,0.7198,0.169,0.1112
+Southampton,Hull,0.6058,0.2551,0.1391
+Southampton,Liverpool,0.266,0.1953,0.5387
+Southampton,Man City,0.184,0.1883,0.6276
+Southampton,Man United,0.3675,0.2568,0.3757
+Southampton,Newcastle,0.5727,0.2378,0.1895
+Southampton,Norwich,0.6528,0.2363,0.1109
+Southampton,Stoke,0.5136,0.2609,0.2254
+Southampton,Sunderland,0.5849,0.2309,0.1842
+Southampton,Swansea,0.4822,0.2544,0.2634
+Southampton,Tottenham,0.4229,0.2707,0.3064
+Southampton,West Brom,0.5821,0.2287,0.1893
+Southampton,West Ham,0.5543,0.261,0.1846
+Stoke,Arsenal,0.2464,0.2596,0.494
+Stoke,Aston Villa,0.5337,0.2525,0.2138
+Stoke,Cardiff,0.6644,0.2102,0.1254
+Stoke,Chelsea,0.2145,0.2501,0.5354
+Stoke,Crystal Palace,0.5028,0.3028,0.1944
+Stoke,Everton,0.3104,0.2724,0.4172
+Stoke,Fulham,0.668,0.1922,0.1397
+Stoke,Hull,0.5315,0.2889,0.1796
+Stoke,Liverpool,0.2168,0.1892,0.5939
+Stoke,Man City,0.1386,0.1756,0.6857
+Stoke,Man United,0.3004,0.2632,0.4365
+Stoke,Newcastle,0.5047,0.2618,0.2335
+Stoke,Norwich,0.5821,0.2718,0.146
+Stoke,Southampton,0.3766,0.2763,0.3471
+Stoke,Sunderland,0.5185,0.2546,0.2269
+Stoke,Swansea,0.4124,0.2717,0.3159
+Stoke,Tottenham,0.3505,0.2849,0.3647
+Stoke,West Brom,0.5165,0.2514,0.2321
+Stoke,West Ham,0.4803,0.2889,0.2309
+Sunderland,Arsenal,0.2029,0.232,0.5651
+Sunderland,Aston Villa,0.4642,0.2504,0.2854
+Sunderland,Cardiff,0.592,0.2215,0.1865
+Sunderland,Chelsea,0.1753,0.221,0.6038
+Sunderland,Crystal Palace,0.4277,0.2933,0.2789
+Sunderland,Everton,0.2589,0.2489,0.4922
+Sunderland,Fulham,0.601,0.2032,0.1958
+Sunderland,Hull,0.4555,0.2838,0.2607
+Sunderland,Liverpool,0.1826,0.1709,0.6463
+Sunderland,Man City,0.1131,0.1528,0.7339
+Sunderland,Man United,0.2508,0.2402,0.5091
+Sunderland,Newcastle,0.4362,0.2565,0.3073
+Sunderland,Norwich,0.5038,0.2731,0.2231
+Sunderland,Southampton,0.3179,0.2583,0.4238
+Sunderland,Stoke,0.3751,0.2702,0.3546
+Sunderland,Swansea,0.3509,0.2574,0.3916
+Sunderland,Tottenham,0.2935,0.2632,0.4433
+Sunderland,West Brom,0.4488,0.2479,0.3033
+Sunderland,West Ham,0.4096,0.2788,0.3116
+Swansea,Arsenal,0.2838,0.2524,0.4638
+Swansea,Aston Villa,0.5654,0.2345,0.2
+Swansea,Cardiff,0.6887,0.1931,0.1182
+Swansea,Chelsea,0.251,0.2453,0.5037
+Swansea,Crystal Palace,0.5414,0.2762,0.1824
+Swansea,Everton,0.3485,0.261,0.3905
+Swansea,Fulham,0.6903,0.1783,0.1313
+Swansea,Hull,0.5678,0.2635,0.1687
+Swansea,Liverpool,0.2442,0.1896,0.5661
+Swansea,Man City,0.1652,0.1797,0.6551
+Swansea,Man United,0.3373,0.2535,0.4092
+Swansea,Newcastle,0.5381,0.2436,0.2183
+Swansea,Norwich,0.6153,0.2468,0.1379
+Swansea,Southampton,0.414,0.2616,0.3244
+Swansea,Stoke,0.4783,0.2644,0.2573
+Swansea,Sunderland,0.5508,0.2371,0.2122
+Swansea,Tottenham,0.3896,0.2698,0.3406
+Swansea,West Brom,0.5484,0.2345,0.2171
+Swansea,West Ham,0.5175,0.2667,0.2158
+Tottenham,Arsenal,0.328,0.2667,0.4053
+Tottenham,Aston Villa,0.623,0.2264,0.1506
+Tottenham,Cardiff,0.7442,0.1765,0.0793
+Tottenham,Chelsea,0.2921,0.2618,0.4461
+Tottenham,Crystal Palace,0.606,0.2692,0.1248
+Tottenham,Everton,0.398,0.2705,0.3315
+Tottenham,Fulham,0.7412,0.1638,0.0949
+Tottenham,Hull,0.6318,0.2541,0.1141
+Tottenham,Liverpool,0.278,0.2009,0.521
+Tottenham,Man City,0.1932,0.1959,0.6109
+Tottenham,Man United,0.3851,0.2634,0.3516
+Tottenham,Newcastle,0.5959,0.2375,0.1666
+Tottenham,Norwich,0.6792,0.2331,0.0876
+Tottenham,Southampton,0.4677,0.2657,0.2666
+Tottenham,Stoke,0.5364,0.2633,0.2003
+Tottenham,Sunderland,0.608,0.2301,0.1619
+Tottenham,Swansea,0.5035,0.2574,0.2391
+Tottenham,West Brom,0.6049,0.2278,0.1673
+Tottenham,West Ham,0.5787,0.2621,0.1593
+West Brom,Arsenal,0.2078,0.2297,0.5626
+West Brom,Aston Villa,0.4671,0.2468,0.2862
+West Brom,Cardiff,0.5933,0.2185,0.1882
+West Brom,Chelsea,0.1802,0.219,0.6008
+West Brom,Crystal Palace,0.4318,0.2877,0.2805
+West Brom,Everton,0.2636,0.2459,0.4905
+West Brom,Fulham,0.6021,0.2008,0.1971
+West Brom,Hull,0.4591,0.2785,0.2624
+West Brom,Liverpool,0.186,0.1703,0.6436
+West Brom,Man City,0.1167,0.1527,0.7304
+West Brom,Man United,0.2554,0.2375,0.5072
+West Brom,Newcastle,0.4394,0.2527,0.3079
+West Brom,Norwich,0.5066,0.2682,0.2252
+West Brom,Southampton,0.3223,0.2547,0.4229
+West Brom,Stoke,0.3792,0.266,0.3548
+West Brom,Sunderland,0.453,0.2475,0.2995
+West Brom,Swansea,0.355,0.2539,0.3912
+West Brom,Tottenham,0.2982,0.2595,0.4422
+West Brom,West Ham,0.4136,0.274,0.3124
+West Ham,Arsenal,0.2057,0.2608,0.5335
+West Ham,Aston Villa,0.4927,0.2696,0.2378
+West Ham,Cardiff,0.6297,0.2291,0.1412
+West Ham,Chelsea,0.1755,0.2486,0.5759
+West Ham,Crystal Palace,0.4533,0.3279,0.2188
+West Ham,Everton,0.2672,0.2787,0.4541
+West Ham,Fulham,0.6364,0.2075,0.156
+West Ham,Hull,0.4842,0.3136,0.2023
+West Ham,Liverpool,0.1875,0.1851,0.6273
+West Ham,Man City,0.1118,0.1672,0.721
+West Ham,Man United,0.2588,0.2677,0.4735
+West Ham,Newcastle,0.4623,0.2785,0.2592
+West Ham,Norwich,0.5373,0.2974,0.1653
+West Ham,Southampton,0.3324,0.287,0.3806
+West Ham,Stoke,0.3952,0.2995,0.3053
+West Ham,Sunderland,0.4772,0.271,0.2518
+West Ham,Swansea,0.3688,0.2839,0.3473
+West Ham,Tottenham,0.305,0.2952,0.3998
+West Ham,West Brom,0.4757,0.267,0.2572
