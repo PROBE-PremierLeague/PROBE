@@ -7,9 +7,9 @@ from pathlib import Path
 def load_team_parameters(year: str):
     script_dir = Path(__file__).resolve().parent
     lambdas_path = (
-        script_dir.parent.parent / "model" / "poisson" / "lambdas" / "mle-L-BFGS-B-lambdas"
+        script_dir.parent.parent / "model" / "regression" / "results" / "linear_regression" / "mle-L-BFGS-B-lambdas"
     )
-    filename = f"{year}-parameters.csv"
+    filename = f"team_data_{year}_no_home_advantage.csv"
     full_path = lambdas_path / filename
     if not full_path.exists():
         raise FileNotFoundError(f"Cannot find file: {full_path}")
@@ -18,7 +18,7 @@ def load_team_parameters(year: str):
 def simulate_expectation(df, goal_cutoff=10):
     teams = df['Team'].tolist()
     attack = dict(zip(df['Team'], df['Attack']))
-    defense = dict(zip(df['Team'], df['Defend']))
+    defense = dict(zip(df['Team'], df['Defense']))
     home_adv = df['HomeAdvantage'].iloc[0]
 
     standings = {team: {'Pts': 0.0, 'GF': 0.0, 'GA': 0.0} for team in teams}
@@ -76,6 +76,7 @@ def main(year: str, save_dir: Path):
         league_table = build_league_table(standings)
 
         # Save to CSV
+        year = year.replace("_", "-")
         save_path = save_dir / f"table-{year}.csv"
         save_path.parent.mkdir(parents=True, exist_ok=True)
         league_table.to_csv(save_path, index=False)  # Now 'rank' is a proper column
@@ -89,10 +90,6 @@ if __name__ == "__main__":
     script_dir = Path(__file__).resolve().parent
     results_dir = script_dir.parent.parent / "sim" / "results" / "tables"
 
-    # Simulate for all seasons from 2012-2013 to 2023-2024
-    for start_year in range(2012, 2024):
-        end_year = start_year + 1
-        year_str = f"{start_year}-{end_year}"
-        print("=" * 50)
-        print(f"Simulating season: {year_str}")
-        main(year_str, results_dir)
+    year_str = "2024_2025"
+    print(f"Simulating season: {year_str}")
+    main(year_str, results_dir)
