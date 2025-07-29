@@ -1,0 +1,381 @@
+HomeTeam,AwayTeam,HomeGoal,AwayGoal,HomeShots,AwayShots,HomeShotOnTarget,AwayShotOnTarget,HomeCorners,AwayCorners
+West Ham,Sunderland,0,3,17,17,12.0,12.0,4,6
+Man United,Blackpool,4,2,18,14,11.0,7.0,8,8
+Stoke,Wigan,0,1,11,11,5.0,9.0,5,3
+Newcastle,West Brom,3,3,15,13,10.0,7.0,7,6
+Aston Villa,Liverpool,1,0,10,9,8.0,4.0,4,5
+Wolves,Blackburn,2,3,12,13,5.0,10.0,8,3
+Bolton,Man City,0,2,16,16,8.0,10.0,6,5
+Everton,Chelsea,1,0,11,19,3.0,9.0,6,5
+Tottenham,Birmingham,2,1,22,7,16.0,3.0,7,5
+Fulham,Arsenal,2,2,10,12,6.0,6.0,5,3
+Man City,Stoke,3,0,16,4,9.0,2.0,4,3
+Liverpool,Tottenham,0,2,10,8,2.0,4.0,11,5
+Arsenal,Aston Villa,1,2,24,8,15.0,5.0,13,2
+Birmingham,Fulham,0,2,7,18,2.0,9.0,5,5
+Wigan,West Ham,3,2,19,13,10.0,10.0,10,6
+Chelsea,Newcastle,2,2,15,13,7.0,9.0,7,4
+West Brom,Everton,1,0,14,23,9.0,10.0,2,12
+Sunderland,Wolves,1,3,14,10,9.0,6.0,5,5
+Blackburn,Man United,1,1,6,9,2.0,4.0,2,6
+Blackpool,Bolton,4,3,12,17,8.0,9.0,5,6
+Man City,Tottenham,1,0,7,14,4.0,7.0,2,8
+Fulham,Liverpool,2,5,10,16,7.0,11.0,6,5
+Stoke,Arsenal,3,1,12,14,7.0,5.0,2,5
+Man United,Chelsea,2,1,13,19,8.0,11.0,7,2
+Wolves,West Brom,3,1,14,14,10.0,6.0,8,4
+Everton,Man City,2,1,10,12,6.0,7.0,11,6
+Aston Villa,Wigan,1,1,10,7,7.0,4.0,2,5
+Newcastle,Birmingham,2,1,19,5,14.0,2.0,8,2
+Bolton,Sunderland,1,2,17,10,9.0,6.0,5,5
+Tottenham,Blackpool,1,1,20,13,11.0,7.0,7,6
+West Ham,Blackburn,1,1,24,8,15.0,4.0,7,3
+Arsenal,Man United,1,0,9,11,2.0,7.0,3,6
+Man City,West Ham,2,1,19,7,12.0,4.0,8,5
+Birmingham,Wolves,1,1,8,7,1.0,2.0,0,2
+Liverpool,Newcastle,3,0,9,7,5.0,3.0,3,12
+West Brom,Aston Villa,2,1,8,11,4.0,6.0,3,7
+Blackpool,Stoke,0,0,11,9,6.0,6.0,4,8
+Chelsea,Tottenham,2,1,16,12,10.0,7.0,6,5
+Blackburn,Bolton,1,0,17,11,8.0,3.0,3,10
+Wigan,Everton,1,1,13,3,9.0,3.0,3,8
+Sunderland,Fulham,0,3,11,9,7.0,6.0,5,4
+Fulham,Bolton,3,0,18,14,7.0,6.0,10,7
+Stoke,Wolves,3,0,17,5,8.0,1.0,7,11
+Blackburn,Man City,0,1,12,10,6.0,5.0,4,6
+Bolton,Arsenal,2,1,11,17,10.0,7.0,3,9
+Tottenham,West Brom,2,2,19,10,9.0,4.0,11,1
+Sunderland,Wigan,4,2,11,11,7.0,7.0,7,3
+Man United,Everton,1,0,21,5,12.0,3.0,13,1
+Chelsea,West Ham,3,0,16,12,11.0,7.0,5,7
+Aston Villa,Stoke,1,1,7,4,2.0,3.0,7,8
+Wolves,Fulham,1,1,12,15,3.0,5.0,3,5
+Blackpool,Newcastle,1,1,18,9,7.0,6.0,4,4
+Liverpool,Birmingham,5,0,17,10,13.0,6.0,5,2
+Chelsea,Birmingham,3,1,17,6,7.0,3.0,7,4
+Tottenham,Arsenal,3,3,16,13,9.0,9.0,7,6
+Newcastle,Man United,0,0,12,18,5.0,8.0,6,7
+Arsenal,Liverpool,1,1,12,9,6.0,5.0,10,3
+Birmingham,Sunderland,2,0,10,15,4.0,7.0,4,9
+West Ham,Aston Villa,1,2,12,21,7.0,11.0,5,11
+West Brom,Chelsea,1,3,12,19,6.0,11.0,3,5
+Everton,Blackburn,2,0,17,4,7.0,2.0,10,1
+Blackpool,Wigan,1,3,14,9,9.0,5.0,5,3
+Liverpool,Man City,3,0,15,13,7.0,4.0,6,2
+Blackpool,Arsenal,1,3,12,16,6.0,7.0,6,4
+Aston Villa,Newcastle,1,0,13,6,7.0,4.0,9,2
+Wolves,Everton,0,3,11,9,7.0,6.0,13,6
+Blackburn,Birmingham,1,1,15,6,5.0,5.0,8,2
+Sunderland,West Brom,2,3,7,12,4.0,8.0,5,2
+Chelsea,Wigan,1,0,21,11,13.0,7.0,10,5
+Bolton,West Ham,3,0,23,14,12.0,8.0,5,10
+Man United,Fulham,2,0,16,12,12.0,5.0,8,3
+Tottenham,Stoke,3,2,9,10,8.0,5.0,10,5
+Fulham,Blackpool,3,0,13,10,11.0,6.0,4,7
+Man City,Sunderland,5,0,14,8,12.0,4.0,6,5
+Arsenal,Blackburn,0,0,19,7,11.0,2.0,11,4
+Stoke,Chelsea,1,1,13,20,6.0,10.0,5,12
+Everton,Aston Villa,2,2,14,7,7.0,5.0,5,7
+Wigan,Tottenham,0,0,14,10,5.0,6.0,8,2
+West Brom,Liverpool,2,1,17,13,14.0,9.0,0,5
+Newcastle,Wolves,4,1,17,13,13.0,9.0,5,4
+Birmingham,Bolton,2,1,9,19,6.0,12.0,8,9
+West Ham,Man United,2,4,6,18,2.0,9.0,0,16
+Sunderland,Liverpool,0,2,3,10,1.0,4.0,3,6
+Chelsea,Man City,2,0,16,5,11.0,2.0,5,1
+Tottenham,West Ham,0,0,26,11,14.0,5.0,6,2
+Stoke,Newcastle,4,0,8,14,6.0,9.0,3,7
+Everton,Fulham,2,1,16,12,12.0,6.0,7,5
+West Brom,Arsenal,2,2,4,18,3.0,11.0,2,7
+Blackburn,Blackpool,2,2,24,8,7.0,6.0,8,3
+Wigan,Birmingham,2,1,16,7,13.0,4.0,9,4
+Man United,Bolton,1,0,14,11,8.0,6.0,12,5
+Aston Villa,Wolves,0,1,11,8,5.0,5.0,8,3
+Everton,Birmingham,1,1,17,5,11.0,3.0,9,1
+Blackpool,Chelsea,1,3,14,18,5.0,11.0,3,13
+Wolves,Tottenham,3,3,13,15,4.0,10.0,7,4
+Liverpool,Man United,3,1,17,12,10.0,7.0,6,4
+Man City,Wigan,1,0,7,12,3.0,5.0,4,6
+Newcastle,Everton,1,2,10,13,8.0,8.0,5,4
+Arsenal,Sunderland,0,0,14,6,7.0,3.0,5,6
+Birmingham,West Brom,1,3,9,9,4.0,5.0,7,3
+Fulham,Blackburn,3,2,15,12,11.0,9.0,9,7
+West Ham,Stoke,3,0,15,7,10.0,5.0,7,3
+Bolton,Aston Villa,3,2,15,10,9.0,6.0,8,5
+Chelsea,Man United,2,1,17,12,11.0,7.0,10,2
+Stoke,West Brom,1,1,6,16,3.0,11.0,4,0
+Man City,Fulham,1,1,14,11,4.0,5.0,10,1
+West Ham,Liverpool,3,1,17,12,11.0,8.0,6,8
+Newcastle,Bolton,1,1,13,17,6.0,10.0,3,6
+Everton,Sunderland,2,0,17,12,9.0,7.0,4,1
+Wolves,Blackpool,4,0,15,2,11.0,1.0,11,4
+Wigan,Man United,0,4,10,14,4.0,9.0,8,4
+Aston Villa,Blackburn,4,1,17,5,10.0,2.0,10,2
+Arsenal,Stoke,1,0,9,7,4.0,4.0,5,3
+Blackpool,Tottenham,3,1,8,25,4.0,10.0,1,7
+West Brom,Wolves,1,1,19,6,11.0,2.0,12,1
+Birmingham,Newcastle,0,2,11,10,5.0,7.0,4,6
+Fulham,Chelsea,0,0,12,23,8.0,9.0,4,6
+Bolton,Everton,2,0,11,9,5.0,4.0,4,4
+Liverpool,Wigan,1,1,13,8,5.0,2.0,8,5
+West Brom,West Ham,3,3,15,18,11.0,11.0,4,9
+Sunderland,Tottenham,1,2,16,11,10.0,5.0,2,3
+Blackburn,Newcastle,0,0,4,12,0.0,6.0,2,11
+Man United,Man City,2,1,11,13,6.0,8.0,4,7
+Birmingham,Stoke,1,0,10,15,4.0,5.0,3,5
+Blackpool,Aston Villa,1,1,14,7,5.0,4.0,4,8
+Arsenal,Wolves,2,0,17,2,8.0,0.0,3,6
+West Ham,Birmingham,0,1,16,9,9.0,3.0,5,5
+Chelsea,Liverpool,0,1,14,7,4.0,4.0,4,3
+Everton,Blackpool,5,3,23,11,16.0,7.0,9,5
+Wigan,Blackburn,4,3,11,9,7.0,5.0,4,9
+Tottenham,Bolton,2,1,13,8,7.0,3.0,6,7
+Aston Villa,Fulham,2,2,10,13,5.0,9.0,3,6
+Wolves,Man United,2,1,6,14,5.0,7.0,4,6
+Stoke,Sunderland,3,2,18,11,9.0,7.0,12,4
+Man City,West Brom,3,0,13,17,9.0,9.0,8,8
+Newcastle,Arsenal,4,4,16,13,8.0,10.0,12,6
+Blackburn,Tottenham,0,1,17,6,9.0,5.0,4,4
+Fulham,Newcastle,1,0,11,4,9.0,3.0,4,7
+Liverpool,Stoke,2,0,13,6,9.0,1.0,7,0
+Bolton,Wolves,1,0,13,11,8.0,5.0,8,3
+Blackpool,West Ham,1,3,13,12,8.0,10.0,10,7
+Birmingham,Man City,2,2,14,12,7.0,9.0,6,4
+Man United,Aston Villa,3,1,18,9,11.0,5.0,5,5
+Arsenal,Everton,2,1,19,4,10.0,4.0,5,7
+Sunderland,Chelsea,2,4,4,21,3.0,14.0,0,6
+West Brom,Wigan,2,2,21,11,10.0,7.0,8,5
+Liverpool,Fulham,1,0,11,12,7.0,8.0,6,2
+Blackpool,Man United,2,3,6,17,4.0,13.0,6,7
+Wigan,Aston Villa,1,2,19,11,8.0,10.0,7,4
+Bolton,Chelsea,0,4,11,14,8.0,11.0,4,3
+Blackburn,West Brom,2,0,17,24,12.0,20.0,9,9
+Blackpool,Sunderland,1,2,13,11,7.0,6.0,10,4
+Wolves,Liverpool,0,3,11,15,4.0,10.0,5,4
+Arsenal,Wigan,3,0,23,3,15.0,1.0,8,1
+Aston Villa,Man City,1,0,10,24,8.0,14.0,2,13
+Everton,West Ham,2,2,11,13,6.0,5.0,12,2
+Man United,Birmingham,5,0,23,6,9.0,1.0,10,3
+Newcastle,Tottenham,1,1,13,14,6.0,9.0,1,4
+Fulham,Stoke,2,0,10,9,7.0,1.0,3,2
+Tottenham,Man United,0,0,16,7,6.0,4.0,8,2
+Birmingham,Aston Villa,1,1,14,13,4.0,3.0,5,7
+Liverpool,Everton,2,2,19,10,14.0,5.0,10,6
+Sunderland,Newcastle,1,1,10,9,7.0,2.0,4,6
+Chelsea,Blackburn,2,0,27,3,11.0,2.0,14,1
+Stoke,Bolton,2,0,12,13,5.0,6.0,5,5
+West Ham,Arsenal,0,3,7,19,6.0,13.0,4,10
+Wigan,Fulham,1,1,8,14,5.0,5.0,3,11
+Man City,Wolves,4,3,15,10,12.0,7.0,11,8
+West Brom,Blackpool,3,2,18,9,11.0,2.0,4,4
+Blackpool,Liverpool,2,1,13,10,9.0,6.0,3,3
+Newcastle,West Ham,5,0,11,13,7.0,6.0,4,3
+Wolves,Chelsea,1,0,3,17,2.0,8.0,4,9
+Bolton,Wigan,1,1,14,10,7.0,7.0,8,4
+Arsenal,Man City,0,0,13,5,8.0,0.0,7,2
+Aston Villa,Sunderland,0,1,8,11,2.0,5.0,5,9
+Blackburn,Liverpool,3,1,10,13,4.0,9.0,0,7
+Everton,Tottenham,2,1,19,13,12.0,5.0,4,3
+Man United,Stoke,2,1,18,5,7.0,1.0,6,1
+Fulham,West Brom,3,0,12,12,6.0,4.0,7,4
+Blackpool,Birmingham,1,2,19,11,13.0,7.0,3,7
+Wigan,Newcastle,0,1,9,13,4.0,5.0,3,3
+Chelsea,Aston Villa,3,3,15,16,10.0,10.0,9,6
+West Ham,Wolves,2,0,11,15,6.0,10.0,5,10
+Man City,Blackpool,1,0,15,8,4.0,6.0,10,4
+Birmingham,Arsenal,0,3,2,18,1.0,11.0,4,5
+Tottenham,Fulham,1,0,13,12,9.0,4.0,5,1
+Sunderland,Blackburn,3,0,13,11,7.0,3.0,3,2
+West Brom,Man United,1,2,17,5,8.0,3.0,4,5
+Stoke,Everton,2,0,7,15,3.0,10.0,1,5
+Liverpool,Bolton,2,1,16,10,7.0,4.0,7,4
+Wigan,Arsenal,2,2,7,15,5.0,9.0,3,4
+Liverpool,Wolves,0,1,9,7,5.0,3.0,2,8
+Chelsea,Bolton,1,0,12,6,7.0,2.0,6,3
+Tottenham,Newcastle,2,0,13,12,8.0,8.0,9,7
+West Brom,Blackburn,1,3,21,6,11.0,4.0,8,5
+Man City,Aston Villa,4,0,11,9,8.0,4.0,8,6
+Birmingham,Man United,1,1,8,10,3.0,4.0,4,4
+West Ham,Everton,1,1,11,13,2.0,5.0,4,7
+Sunderland,Blackpool,0,2,32,9,16.0,4.0,9,2
+Stoke,Fulham,0,2,14,4,8.0,3.0,9,2
+Arsenal,Chelsea,3,1,10,10,8.0,4.0,4,6
+Man United,Sunderland,2,0,14,6,10.0,2.0,5,3
+Newcastle,Man City,1,3,20,9,10.0,6.0,6,3
+Wolves,Wigan,1,2,8,13,4.0,8.0,7,3
+Bolton,West Brom,2,0,12,15,8.0,9.0,5,7
+Blackburn,Stoke,0,2,12,11,8.0,9.0,5,3
+Fulham,West Ham,1,3,13,10,6.0,7.0,8,4
+Aston Villa,Tottenham,1,2,26,13,15.0,8.0,8,4
+Man City,Everton,1,2,25,4,15.0,3.0,11,0
+Blackburn,West Ham,1,1,13,11,5.0,3.0,9,4
+Sunderland,Bolton,1,0,13,12,5.0,8.0,2,5
+Man United,Arsenal,1,0,14,11,10.0,6.0,5,4
+Bolton,Blackburn,2,1,12,16,7.0,11.0,3,10
+Wolves,Birmingham,1,0,14,3,9.0,0.0,7,2
+Tottenham,Chelsea,1,1,10,13,3.0,7.0,1,7
+Newcastle,Liverpool,3,1,8,16,5.0,7.0,2,5
+West Ham,Man City,1,3,13,12,3.0,7.0,2,6
+Stoke,Blackpool,0,1,16,10,5.0,5.0,10,4
+Aston Villa,West Brom,2,1,6,11,3.0,4.0,6,13
+Fulham,Sunderland,0,0,14,11,13.0,2.0,4,3
+Everton,Wigan,0,0,16,5,8.0,4.0,9,4
+Liverpool,Aston Villa,3,0,12,5,7.0,2.0,4,3
+West Brom,Newcastle,3,1,20,11,12.0,7.0,7,3
+Sunderland,West Ham,1,0,17,8,12.0,2.0,9,3
+Chelsea,Everton,1,1,12,16,5.0,7.0,7,2
+Blackburn,Wolves,3,0,10,10,7.0,7.0,8,11
+Wigan,Stoke,2,2,15,11,8.0,7.0,5,4
+Birmingham,Tottenham,1,1,13,10,5.0,5.0,6,11
+Arsenal,Fulham,2,1,15,11,9.0,7.0,3,7
+Man City,Bolton,1,0,19,7,10.0,2.0,8,8
+Tottenham,Liverpool,2,1,20,12,13.0,8.0,5,8
+Newcastle,Chelsea,1,1,5,17,3.0,13.0,6,7
+Everton,West Brom,1,4,12,7,4.0,3.0,2,2
+Aston Villa,Arsenal,2,4,6,17,4.0,10.0,3,8
+Wolves,Sunderland,3,2,14,15,8.0,9.0,11,5
+Stoke,Man City,1,1,16,9,9.0,4.0,6,2
+West Ham,Wigan,3,1,15,10,9.0,10.0,7,2
+Man United,Blackburn,7,1,15,3,11.0,2.0,5,2
+Fulham,Birmingham,1,1,11,7,7.0,3.0,7,4
+Bolton,Blackpool,2,2,24,16,14.0,10.0,4,4
+Sunderland,Everton,2,2,13,10,8.0,8.0,4,4
+Fulham,Man City,1,4,9,11,3.0,8.0,7,7
+Blackburn,Aston Villa,2,0,14,16,5.0,11.0,5,8
+West Brom,Stoke,0,3,15,6,8.0,4.0,8,3
+Blackpool,Wolves,2,1,13,19,9.0,10.0,4,11
+Man United,Wigan,2,0,17,10,12.0,4.0,11,1
+Bolton,Newcastle,5,1,18,6,9.0,1.0,2,3
+Liverpool,West Ham,3,0,19,6,11.0,1.0,10,2
+Arsenal,Tottenham,2,3,12,10,7.0,6.0,2,6
+Birmingham,Chelsea,1,0,1,24,1.0,9.0,4,14
+Chelsea,Sunderland,0,3,14,19,7.0,9.0,6,3
+Everton,Arsenal,1,2,14,13,7.0,8.0,9,2
+Wolves,Bolton,2,3,10,13,6.0,7.0,12,3
+Aston Villa,Man United,2,2,12,16,6.0,10.0,9,7
+Newcastle,Fulham,0,0,13,10,7.0,8.0,5,5
+Man City,Birmingham,0,0,21,5,11.0,3.0,6,4
+Wigan,West Brom,1,0,13,12,4.0,6.0,5,5
+West Ham,Blackpool,0,0,17,16,4.0,5.0,8,7
+Tottenham,Blackburn,4,2,20,12,12.0,8.0,12,6
+Stoke,Liverpool,2,0,14,10,7.0,6.0,4,3
+Newcastle,Blackburn,1,2,9,7,3.0,5.0,4,1
+Wigan,Liverpool,1,1,10,8,8.0,3.0,5,4
+West Ham,West Brom,2,2,8,14,5.0,6.0,6,7
+Everton,Bolton,1,1,23,10,12.0,5.0,15,10
+Man City,Man United,0,0,6,7,4.0,4.0,8,5
+Wolves,Arsenal,0,2,14,12,7.0,8.0,5,2
+Chelsea,Fulham,1,0,19,5,10.0,3.0,4,4
+Aston Villa,Blackpool,3,2,19,12,12.0,6.0,11,8
+Tottenham,Sunderland,1,1,20,8,12.0,4.0,17,3
+Stoke,Birmingham,3,2,19,14,12.0,10.0,10,4
+Arsenal,Newcastle,0,1,11,7,8.0,2.0,12,2
+Liverpool,Chelsea,2,0,9,11,7.0,7.0,2,5
+West Brom,Man City,0,2,13,9,7.0,5.0,6,1
+Man United,Wolves,2,1,14,8,10.0,6.0,3,2
+Birmingham,West Ham,2,2,8,16,5.0,8.0,3,4
+Blackburn,Wigan,2,1,10,16,3.0,10.0,3,6
+Blackpool,Everton,2,2,11,20,8.0,14.0,3,7
+Bolton,Tottenham,4,2,18,11,8.0,6.0,7,6
+Sunderland,Stoke,2,0,14,11,7.0,5.0,6,9
+Fulham,Aston Villa,1,1,14,15,10.0,8.0,3,3
+Blackpool,West Brom,2,1,21,12,8.0,5.0,8,2
+Newcastle,Sunderland,5,1,16,11,12.0,5.0,8,6
+Aston Villa,Birmingham,0,0,7,10,3.0,6.0,1,4
+Bolton,Liverpool,0,1,14,10,10.0,4.0,1,4
+Arsenal,West Ham,1,0,20,6,13.0,3.0,7,4
+Blackburn,Chelsea,1,2,13,16,6.0,9.0,4,5
+Fulham,Wigan,2,0,15,8,9.0,3.0,7,1
+Wolves,Man City,2,1,10,17,6.0,9.0,5,7
+Man United,Tottenham,2,0,18,11,10.0,5.0,1,4
+Everton,Stoke,1,0,18,9,10.0,1.0,6,2
+Stoke,Man United,1,2,6,12,2.0,5.0,5,6
+Man City,Arsenal,0,3,9,12,6.0,8.0,6,7
+Liverpool,Blackburn,2,1,17,4,10.0,2.0,15,4
+West Ham,Newcastle,1,2,5,13,1.0,8.0,2,6
+Tottenham,Everton,1,1,13,7,8.0,3.0,4,4
+Chelsea,Wolves,2,0,17,12,10.0,9.0,8,8
+West Brom,Fulham,2,1,14,9,7.0,3.0,7,5
+Sunderland,Aston Villa,1,0,13,11,6.0,7.0,4,11
+Birmingham,Blackpool,2,0,17,14,8.0,6.0,9,10
+Wigan,Bolton,1,1,15,9,9.0,2.0,5,0
+Blackburn,Sunderland,0,0,9,16,3.0,7.0,5,3
+Blackpool,Man City,2,3,16,13,5.0,8.0,3,9
+Everton,Liverpool,2,0,9,15,6.0,9.0,8,7
+Aston Villa,Chelsea,0,0,11,13,5.0,6.0,9,5
+Fulham,Tottenham,1,2,11,14,5.0,6.0,4,11
+Man United,West Brom,2,2,16,7,9.0,2.0,3,2
+Arsenal,Birmingham,2,1,18,6,13.0,4.0,7,3
+Bolton,Stoke,2,1,11,8,6.0,3.0,5,6
+Newcastle,Wigan,2,2,9,8,4.0,4.0,6,3
+Wolves,West Ham,1,1,9,9,5.0,7.0,8,3
+Liverpool,Blackpool,1,2,19,11,10.0,7.0,5,2
+Man City,Newcastle,2,1,9,8,5.0,4.0,4,4
+Chelsea,Arsenal,2,0,11,13,6.0,5.0,10,10
+Stoke,Blackburn,1,0,18,7,11.0,4.0,8,6
+Sunderland,Man United,0,0,14,10,8.0,4.0,10,4
+West Ham,Fulham,1,1,12,17,5.0,5.0,2,3
+Wigan,Wolves,2,0,24,2,17.0,0.0,3,3
+Tottenham,Aston Villa,2,1,19,13,10.0,4.0,10,4
+Birmingham,Everton,0,2,6,11,3.0,6.0,6,5
+West Brom,Bolton,1,1,17,10,9.0,5.0,7,4
+Newcastle,Stoke,1,2,11,8,7.0,2.0,3,4
+Wolves,Aston Villa,1,2,14,10,12.0,8.0,5,4
+Bolton,Man United,2,2,15,12,9.0,6.0,7,12
+Fulham,Everton,0,0,12,15,2.0,7.0,4,5
+Man City,Chelsea,1,0,8,15,6.0,4.0,3,4
+Arsenal,West Brom,2,3,24,7,12.0,5.0,16,4
+Liverpool,Sunderland,2,2,13,10,5.0,1.0,3,3
+Birmingham,Wigan,0,0,10,17,4.0,10.0,3,7
+Blackpool,Blackburn,1,2,11,13,8.0,8.0,8,8
+West Ham,Tottenham,1,0,22,17,15.0,11.0,14,7
+Man United,Liverpool,3,2,16,7,7.0,1.0,6,1
+Wigan,Man City,0,2,9,11,3.0,5.0,3,1
+Chelsea,Blackpool,4,0,27,11,15.0,4.0,9,6
+Stoke,West Ham,1,1,9,13,3.0,6.0,6,3
+West Brom,Birmingham,3,1,16,6,10.0,3.0,5,0
+Blackburn,Fulham,1,1,9,9,5.0,4.0,3,3
+Aston Villa,Bolton,1,1,13,13,6.0,7.0,8,4
+Everton,Newcastle,0,1,6,9,3.0,4.0,3,6
+Tottenham,Wolves,3,1,20,5,11.0,2.0,5,4
+Sunderland,Arsenal,1,1,16,16,5.0,7.0,11,3
+Stoke,Aston Villa,2,1,20,10,12.0,6.0,8,7
+Birmingham,Liverpool,0,0,15,14,3.0,8.0,4,3
+West Ham,Chelsea,1,3,13,17,7.0,9.0,1,5
+Man City,Blackburn,1,1,20,4,14.0,2.0,14,2
+Fulham,Wolves,2,1,13,4,6.0,2.0,6,6
+Newcastle,Blackpool,0,2,16,7,13.0,4.0,3,2
+Arsenal,Bolton,4,1,23,7,14.0,6.0,9,6
+Everton,Man United,3,3,23,13,14.0,8.0,7,5
+Wigan,Sunderland,1,1,17,4,4.0,2.0,5,1
+West Brom,Tottenham,1,1,15,16,8.0,9.0,9,4
+Liverpool,West Brom,1,0,11,14,7.0,5.0,7,6
+Bolton,Birmingham,2,2,11,9,8.0,5.0,6,1
+Aston Villa,Everton,1,0,12,15,6.0,9.0,4,16
+Sunderland,Man City,1,0,12,9,4.0,7.0,3,7
+Man United,West Ham,3,0,18,7,11.0,2.0,9,3
+Blackpool,Fulham,2,2,14,12,5.0,7.0,4,5
+Tottenham,Wigan,0,1,12,13,7.0,5.0,16,7
+Blackburn,Arsenal,1,2,15,14,7.0,9.0,4,8
+Chelsea,Stoke,2,0,15,9,6.0,3.0,6,1
+Wolves,Newcastle,1,1,5,11,2.0,6.0,5,3
+Man City,Liverpool,3,0,8,13,3.0,7.0,5,4
+Newcastle,Aston Villa,6,0,20,3,14.0,1.0,10,2
+Fulham,Man United,2,2,16,14,8.0,7.0,5,11
+Arsenal,Blackpool,6,0,26,3,16.0,1.0,8,2
+Stoke,Tottenham,1,2,15,7,10.0,6.0,6,2
+West Brom,Sunderland,1,0,11,10,5.0,4.0,4,6
+Everton,Wolves,1,1,14,9,6.0,4.0,3,3
+Birmingham,Blackburn,2,1,10,7,7.0,2.0,4,12
+West Ham,Bolton,1,3,17,12,10.0,8.0,8,5
+Wigan,Chelsea,0,6,17,10,12.0,8.0,0,0
+Man United,Newcastle,3,0,18,7,10.0,3.0,5,3
+Liverpool,Arsenal,1,1,7,14,4.0,7.0,9,11
+Chelsea,West Brom,6,0,18,10,13.0,4.0,3,1
+Aston Villa,West Ham,3,0,23,12,11.0,2.0,16,7
+Blackburn,Everton,1,0,7,17,2.0,12.0,1,3
+Tottenham,Man City,0,0,22,11,18.0,7.0,10,3
+Wigan,Blackpool,0,4,11,9,6.0,7.0,6,4
+Sunderland,Birmingham,2,2,6,13,2.0,7.0,3,6
+Wolves,Stoke,2,1,13,10,7.0,6.0,5,5
+Bolton,Fulham,0,0,13,12,9.0,7.0,4,8

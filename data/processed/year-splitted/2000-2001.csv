@@ -1,0 +1,381 @@
+Date,Season,HomeTeam,AwayTeam,FTH Goals,FTA Goals,FT Result,HTH Goals,HTA Goals,HT Result,Referee,H Shots,A Shots,H SOT,A SOT,H Fouls,A Fouls,H Corners,A Corners,H Yellow,A Yellow,H Red,A Red,Display_Order,League
+19/05/2001,2000/01,Charlton,Liverpool,0,4,A,0.0,0.0,D,Graham Barber,12.0,16.0,10.0,14.0,7.0,13.0,10.0,10.0,1.0,1.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Southampton,Arsenal,3,2,H,0.0,1.0,A,Paul Taylor,11.0,8.0,7.0,5.0,17.0,10.0,7.0,5.0,1.0,2.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Coventry,Bradford,0,0,D,0.0,0.0,D,Alan Wiley,15.0,10.0,7.0,3.0,15.0,13.0,9.0,3.0,1.0,1.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Derby,Ipswich,1,1,D,1.0,0.0,H,Graham Poll,7.0,13.0,2.0,6.0,14.0,15.0,3.0,11.0,1.0,1.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Tottenham,Man United,3,1,H,1.0,1.0,D,Andy D'Urso,9.0,15.0,3.0,6.0,13.0,15.0,3.0,6.0,0.0,2.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Newcastle,Aston Villa,3,0,H,2.0,0.0,H,Barry Knight,9.0,5.0,5.0,1.0,10.0,14.0,5.0,1.0,0.0,5.0,1.0,1.0,20010519,Premier League
+19/05/2001,2000/01,Everton,Sunderland,2,2,D,1.0,1.0,D,Steve Bennett,18.0,11.0,8.0,4.0,12.0,13.0,5.0,6.0,5.0,3.0,0.0,1.0,20010519,Premier League
+19/05/2001,2000/01,Man City,Chelsea,1,2,A,1.0,1.0,D,Mike Riley,3.0,9.0,1.0,3.0,22.0,18.0,8.0,7.0,4.0,2.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Middlesbrough,West Ham,2,1,H,2.0,1.0,H,Paul Durkin,19.0,11.0,7.0,5.0,13.0,15.0,5.0,6.0,0.0,0.0,0.0,0.0,20010519,Premier League
+19/05/2001,2000/01,Leeds,Leicester,3,1,H,1.0,1.0,D,David Ellaray,24.0,8.0,11.0,5.0,14.0,17.0,12.0,5.0,3.0,4.0,0.0,0.0,20010519,Premier League
+15/05/2001,2000/01,Newcastle,Arsenal,0,0,D,0.0,0.0,D,Alan Wiley,12.0,8.0,2.0,1.0,14.0,10.0,4.0,8.0,1.0,0.0,0.0,0.0,20010515,Premier League
+13/05/2001,2000/01,Southampton,Man United,2,1,H,2.0,0.0,H,Jeff Winter,14.0,9.0,3.0,6.0,13.0,18.0,4.0,4.0,1.0,1.0,0.0,0.0,20010513,Premier League
+13/05/2001,2000/01,Leeds,Bradford,6,1,H,5.0,1.0,H,Andy D'Urso,18.0,13.0,9.0,7.0,20.0,13.0,9.0,7.0,1.0,0.0,0.0,0.0,20010513,Premier League
+8/05/2001,2000/01,Liverpool,Chelsea,2,2,D,1.0,1.0,D,Dermot Gallagher,16.0,14.0,8.0,7.0,14.0,21.0,6.0,6.0,1.0,4.0,0.0,0.0,20010508,Premier League
+7/05/2001,2000/01,Ipswich,Man City,2,1,H,0.0,0.0,D,Steve Lodge,15.0,11.0,7.0,7.0,8.0,19.0,9.0,2.0,0.0,0.0,0.0,0.0,20010507,Premier League
+5/05/2001,2000/01,Chelsea,Everton,2,1,H,2.0,1.0,H,Rob Harris,13.0,9.0,5.0,3.0,19.0,22.0,8.0,6.0,1.0,1.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Leicester,Tottenham,4,2,H,1.0,0.0,H,Mike Dean,19.0,9.0,9.0,4.0,11.0,14.0,6.0,2.0,3.0,2.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,West Ham,Southampton,3,0,H,0.0,0.0,D,Clive Wilkes,16.0,12.0,12.0,3.0,18.0,18.0,5.0,1.0,2.0,2.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Sunderland,Charlton,3,2,H,2.0,1.0,H,Steve Dunn,17.0,17.0,11.0,7.0,17.0,7.0,8.0,5.0,1.0,0.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Man United,Derby,0,1,A,0.0,1.0,A,Neale Barry,11.0,10.0,6.0,5.0,13.0,11.0,13.0,1.0,1.0,0.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Bradford,Middlesbrough,1,1,D,1.0,0.0,H,Graham Barber,10.0,14.0,7.0,9.0,25.0,21.0,6.0,6.0,4.0,2.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Liverpool,Newcastle,3,0,H,1.0,0.0,H,Mark Halsey,12.0,6.0,5.0,3.0,11.0,10.0,2.0,3.0,0.0,2.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Aston Villa,Coventry,3,2,H,0.0,2.0,A,Mike Riley,6.0,6.0,4.0,3.0,12.0,23.0,6.0,2.0,2.0,5.0,0.0,0.0,20010505,Premier League
+5/05/2001,2000/01,Arsenal,Leeds,2,1,H,1.0,0.0,H,Peter Jones,7.0,4.0,4.0,3.0,21.0,18.0,11.0,2.0,4.0,3.0,0.0,0.0,20010505,Premier League
+1/05/2001,2000/01,Newcastle,Southampton,1,1,D,1.0,0.0,H,Steve Lodge,7.0,11.0,5.0,3.0,15.0,17.0,4.0,2.0,2.0,1.0,0.0,0.0,20010501,Premier League
+1/05/2001,2000/01,Bradford,Liverpool,0,2,A,0.0,0.0,D,Jeff Winter,15.0,11.0,4.0,10.0,11.0,13.0,7.0,0.0,0.0,2.0,0.0,0.0,20010501,Premier League
+30/04/2001,2000/01,Charlton,Ipswich,2,1,H,1.0,1.0,D,Rob Styles,10.0,17.0,7.0,6.0,17.0,11.0,2.0,13.0,0.0,1.0,0.0,0.0,20010430,Premier League
+28/04/2001,2000/01,Middlesbrough,Man United,0,2,A,0.0,1.0,A,Steve Lodge,18.0,9.0,3.0,5.0,13.0,21.0,4.0,6.0,2.0,3.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Tottenham,Aston Villa,0,0,D,0.0,0.0,D,Clive Wilkes,7.0,7.0,3.0,4.0,13.0,13.0,5.0,6.0,1.0,0.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Man City,West Ham,1,0,H,1.0,0.0,H,Peter Jones,16.0,12.0,9.0,7.0,19.0,12.0,10.0,10.0,3.0,5.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Newcastle,Leicester,1,0,H,0.0,0.0,D,Graham Poll,20.0,4.0,6.0,3.0,15.0,14.0,12.0,0.0,1.0,1.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Derby,Arsenal,1,2,A,1.0,1.0,D,Graham Barber,6.0,14.0,2.0,9.0,14.0,13.0,4.0,6.0,3.0,4.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Southampton,Sunderland,0,1,A,0.0,0.0,D,Alan Wiley,11.0,6.0,5.0,3.0,15.0,14.0,11.0,2.0,2.0,1.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Coventry,Liverpool,0,2,A,0.0,0.0,D,Steve Bennett,11.0,13.0,4.0,6.0,15.0,11.0,7.0,7.0,3.0,1.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Leeds,Chelsea,2,0,H,0.0,0.0,D,Steve Dunn,16.0,7.0,9.0,5.0,22.0,17.0,7.0,2.0,2.0,5.0,0.0,0.0,20010428,Premier League
+28/04/2001,2000/01,Everton,Bradford,2,1,H,0.0,1.0,A,Paul Durkin,18.0,7.0,9.0,4.0,15.0,15.0,5.0,2.0,1.0,2.0,0.0,0.0,20010428,Premier League
+22/04/2001,2000/01,Liverpool,Tottenham,3,1,H,1.0,1.0,D,Barry Knight,14.0,7.0,8.0,5.0,10.0,13.0,6.0,4.0,1.0,1.0,0.0,0.0,20010422,Premier League
+21/04/2001,2000/01,Man United,Man City,1,1,D,0.0,0.0,D,David Ellaray,13.0,6.0,6.0,4.0,14.0,20.0,3.0,2.0,0.0,0.0,1.0,0.0,20010421,Premier League
+21/04/2001,2000/01,Aston Villa,Southampton,0,0,D,0.0,0.0,D,Jeff Winter,9.0,3.0,2.0,3.0,10.0,15.0,4.0,5.0,1.0,2.0,0.0,0.0,20010421,Premier League
+21/04/2001,2000/01,Chelsea,Charlton,0,1,A,0.0,1.0,A,Mike Dean,9.0,4.0,1.0,2.0,12.0,14.0,10.0,3.0,3.0,0.0,0.0,0.0,20010421,Premier League
+21/04/2001,2000/01,Sunderland,Newcastle,1,1,D,0.0,0.0,D,Mike Riley,16.0,9.0,10.0,5.0,17.0,22.0,4.0,8.0,5.0,4.0,0.0,0.0,20010421,Premier League
+21/04/2001,2000/01,West Ham,Leeds,0,2,A,0.0,1.0,A,Graham Poll,15.0,12.0,10.0,7.0,17.0,13.0,6.0,6.0,5.0,2.0,0.0,1.0,20010421,Premier League
+21/04/2001,2000/01,Ipswich,Coventry,2,0,H,1.0,0.0,H,Graham Barber,13.0,6.0,5.0,2.0,22.0,23.0,2.0,3.0,1.0,4.0,0.0,0.0,20010421,Premier League
+21/04/2001,2000/01,Bradford,Derby,2,0,H,1.0,0.0,H,Neale Barry,15.0,12.0,9.0,3.0,14.0,13.0,3.0,8.0,0.0,2.0,0.0,1.0,20010421,Premier League
+21/04/2001,2000/01,Arsenal,Everton,4,1,H,1.0,1.0,D,Dermot Gallagher,10.0,4.0,8.0,2.0,7.0,13.0,10.0,0.0,0.0,2.0,0.0,1.0,20010421,Premier League
+21/04/2001,2000/01,Leicester,Middlesbrough,0,3,A,0.0,1.0,A,Paul Taylor,15.0,15.0,4.0,7.0,13.0,11.0,12.0,5.0,3.0,1.0,0.0,0.0,20010421,Premier League
+17/04/2001,2000/01,Charlton,Aston Villa,3,3,D,2.0,0.0,H,Graham Poll,12.0,11.0,5.0,8.0,10.0,15.0,5.0,7.0,3.0,4.0,1.0,0.0,20010417,Premier League
+17/04/2001,2000/01,Tottenham,Chelsea,0,3,A,0.0,1.0,A,Graham Barber,5.0,16.0,1.0,10.0,14.0,11.0,2.0,5.0,2.0,2.0,1.0,0.0,20010417,Premier League
+16/04/2001,2000/01,Newcastle,West Ham,2,1,H,1.0,0.0,H,Paul Durkin,20.0,13.0,14.0,6.0,19.0,9.0,7.0,5.0,0.0,0.0,0.0,0.0,20010416,Premier League
+16/04/2001,2000/01,Coventry,Sunderland,1,0,H,1.0,0.0,H,Dermot Gallagher,14.0,6.0,9.0,3.0,15.0,21.0,6.0,3.0,3.0,0.0,0.0,0.0,20010416,Premier League
+16/04/2001,2000/01,Everton,Liverpool,2,3,A,1.0,1.0,D,Jeff Winter,10.0,10.0,7.0,6.0,19.0,15.0,2.0,5.0,4.0,2.0,1.0,0.0,20010416,Premier League
+16/04/2001,2000/01,Derby,Leicester,2,0,H,1.0,0.0,H,Mark Halsey,10.0,7.0,6.0,4.0,17.0,16.0,5.0,6.0,0.0,0.0,0.0,0.0,20010416,Premier League
+16/04/2001,2000/01,Middlesbrough,Ipswich,1,2,A,1.0,0.0,H,Steve Bennett,4.0,12.0,1.0,5.0,8.0,8.0,5.0,4.0,0.0,0.0,0.0,0.0,20010416,Premier League
+14/04/2001,2000/01,Chelsea,Southampton,1,0,H,1.0,0.0,H,Clive Wilkes,14.0,9.0,8.0,5.0,11.0,19.0,7.0,6.0,3.0,3.0,0.0,0.0,20010414,Premier League
+14/04/2001,2000/01,West Ham,Derby,3,1,H,3.0,0.0,H,Rob Styles,18.0,6.0,10.0,3.0,10.0,18.0,3.0,5.0,0.0,2.0,0.0,0.0,20010414,Premier League
+14/04/2001,2000/01,Sunderland,Tottenham,2,3,A,2.0,0.0,H,David Ellaray,13.0,8.0,4.0,6.0,12.0,15.0,3.0,3.0,1.0,2.0,0.0,0.0,20010414,Premier League
+14/04/2001,2000/01,Ipswich,Newcastle,1,0,H,0.0,0.0,D,Mike Dean,14.0,6.0,5.0,2.0,6.0,13.0,9.0,3.0,0.0,1.0,0.0,1.0,20010414,Premier League
+14/04/2001,2000/01,Aston Villa,Everton,2,1,H,1.0,1.0,D,Paul Taylor,8.0,5.0,5.0,3.0,13.0,14.0,5.0,3.0,0.0,3.0,0.0,0.0,20010414,Premier League
+14/04/2001,2000/01,Man United,Coventry,4,2,H,2.0,2.0,D,Mike Riley,28.0,9.0,13.0,4.0,9.0,18.0,9.0,2.0,1.0,4.0,0.0,0.0,20010414,Premier League
+14/04/2001,2000/01,Leicester,Man City,1,2,A,1.0,1.0,D,Barry Knight,15.0,8.0,9.0,3.0,13.0,26.0,5.0,1.0,2.0,3.0,0.0,0.0,20010414,Premier League
+14/04/2001,2000/01,Arsenal,Middlesbrough,0,3,A,0.0,2.0,A,Paul Durkin,17.0,6.0,8.0,2.0,13.0,11.0,9.0,0.0,1.0,1.0,0.0,0.0,20010414,Premier League
+13/04/2001,2000/01,Bradford,Charlton,2,0,H,0.0,0.0,D,Peter Jones,4.0,3.0,8.0,8.0,13.0,21.0,3.0,7.0,1.0,3.0,0.0,0.0,20010413,Premier League
+13/04/2001,2000/01,Liverpool,Leeds,1,2,A,0.0,2.0,A,Alan Wiley,11.0,9.0,5.0,3.0,19.0,16.0,8.0,2.0,3.0,1.0,1.0,0.0,20010413,Premier League
+11/04/2001,2000/01,Man City,Arsenal,0,4,A,0.0,4.0,A,Neale Barry,7.0,15.0,2.0,8.0,10.0,8.0,7.0,3.0,2.0,0.0,0.0,0.0,20010411,Premier League
+10/04/2001,2000/01,Man United,Charlton,2,1,H,1.0,0.0,H,Mark Halsey,23.0,3.0,8.0,2.0,8.0,9.0,12.0,4.0,1.0,1.0,0.0,0.0,20010410,Premier League
+10/04/2001,2000/01,Tottenham,Bradford,2,1,H,1.0,1.0,D,Steve Bennett,17.0,10.0,13.0,5.0,13.0,9.0,5.0,7.0,1.0,1.0,0.0,0.0,20010410,Premier League
+10/04/2001,2000/01,Ipswich,Liverpool,1,1,D,0.0,0.0,D,Steve Dunn,8.0,7.0,5.0,2.0,10.0,15.0,6.0,1.0,0.0,0.0,0.0,0.0,20010410,Premier League
+9/04/2001,2000/01,Middlesbrough,Sunderland,0,0,D,0.0,0.0,D,Andy D'Urso,12.0,12.0,6.0,4.0,22.0,22.0,3.0,2.0,5.0,3.0,1.0,0.0,20010409,Premier League
+8/04/2001,2000/01,Everton,Man City,3,1,H,2.0,1.0,H,David Ellaray,11.0,13.0,7.0,5.0,17.0,18.0,8.0,8.0,0.0,3.0,1.0,1.0,20010408,Premier League
+7/04/2001,2000/01,Leeds,Southampton,2,0,H,1.0,0.0,H,Jeff Winter,15.0,6.0,7.0,2.0,10.0,11.0,10.0,1.0,0.0,0.0,0.0,0.0,20010407,Premier League
+7/04/2001,2000/01,Leicester,Coventry,1,3,A,1.0,2.0,A,Graham Barber,9.0,15.0,4.0,5.0,9.0,19.0,4.0,9.0,3.0,2.0,0.0,0.0,20010407,Premier League
+7/04/2001,2000/01,Aston Villa,West Ham,2,2,D,0.0,0.0,D,Rob Harris,6.0,7.0,4.0,5.0,5.0,3.0,5.0,3.0,1.0,3.0,0.0,0.0,20010407,Premier League
+7/04/2001,2000/01,Derby,Chelsea,0,4,A,0.0,0.0,D,Steve Lodge,3.0,10.0,2.0,7.0,13.0,7.0,1.0,9.0,1.0,1.0,0.0,0.0,20010407,Premier League
+4/04/2001,2000/01,Aston Villa,Leicester,2,1,H,1.0,1.0,D,Mike Dean,9.0,6.0,5.0,2.0,11.0,12.0,10.0,3.0,2.0,2.0,0.0,0.0,20010404,Premier League
+2/04/2001,2000/01,Southampton,Ipswich,0,3,A,0.0,1.0,A,Alan Wiley,11.0,11.0,3.0,5.0,17.0,15.0,6.0,7.0,2.0,1.0,0.0,0.0,20010402,Premier League
+1/04/2001,2000/01,Charlton,Leicester,2,0,H,1.0,0.0,H,Jeff Winter,16.0,5.0,9.0,1.0,12.0,9.0,6.0,2.0,2.0,2.0,0.0,0.0,20010401,Premier League
+31/03/2001,2000/01,Liverpool,Man United,2,0,H,2.0,0.0,H,Graham Poll,15.0,9.0,6.0,3.0,8.0,8.0,6.0,4.0,1.0,1.0,1.0,0.0,20010331,Premier League
+31/03/2001,2000/01,Bradford,Newcastle,2,2,D,2.0,1.0,H,Paul Taylor,22.0,14.0,8.0,7.0,17.0,23.0,10.0,8.0,0.0,1.0,0.0,0.0,20010331,Premier League
+31/03/2001,2000/01,Arsenal,Tottenham,2,0,H,0.0,0.0,D,Paul Durkin,25.0,4.0,19.0,3.0,5.0,6.0,12.0,2.0,0.0,1.0,0.0,0.0,20010331,Premier League
+31/03/2001,2000/01,Coventry,Derby,2,0,H,1.0,0.0,H,David Ellaray,12.0,14.0,7.0,8.0,12.0,16.0,9.0,4.0,0.0,1.0,1.0,0.0,20010331,Premier League
+31/03/2001,2000/01,Chelsea,Middlesbrough,2,1,H,1.0,0.0,H,Peter Jones,17.0,7.0,5.0,3.0,19.0,10.0,4.0,3.0,2.0,1.0,0.0,0.0,20010331,Premier League
+31/03/2001,2000/01,Man City,Aston Villa,1,3,A,1.0,2.0,A,Rob Styles,12.0,8.0,6.0,7.0,18.0,13.0,9.0,2.0,6.0,4.0,1.0,0.0,20010331,Premier League
+31/03/2001,2000/01,West Ham,Everton,0,2,A,0.0,1.0,A,Andy D'Urso,17.0,10.0,6.0,7.0,16.0,16.0,8.0,2.0,3.0,2.0,1.0,0.0,20010331,Premier League
+31/03/2001,2000/01,Sunderland,Leeds,0,2,A,0.0,1.0,A,Steve Dunn,14.0,7.0,8.0,4.0,17.0,10.0,8.0,4.0,2.0,2.0,0.0,1.0,20010331,Premier League
+18/03/2001,2000/01,Aston Villa,Arsenal,0,0,D,0.0,0.0,D,Barry Knight,4.0,14.0,2.0,5.0,16.0,13.0,3.0,3.0,2.0,2.0,0.0,1.0,20010318,Premier League
+18/03/2001,2000/01,Liverpool,Derby,1,1,D,0.0,1.0,A,Neale Barry,18.0,7.0,8.0,4.0,11.0,9.0,9.0,3.0,2.0,2.0,0.0,0.0,20010318,Premier League
+17/03/2001,2000/01,Man United,Leicester,2,0,H,0.0,0.0,D,Alan Wiley,19.0,5.0,8.0,2.0,11.0,13.0,14.0,2.0,1.0,1.0,0.0,0.0,20010317,Premier League
+17/03/2001,2000/01,Newcastle,Middlesbrough,1,2,A,0.0,2.0,A,Graham Barber,16.0,7.0,5.0,4.0,14.0,19.0,5.0,1.0,0.0,3.0,0.0,1.0,20010317,Premier League
+17/03/2001,2000/01,Tottenham,Coventry,3,0,H,2.0,0.0,H,Graham Poll,12.0,11.0,4.0,5.0,13.0,10.0,5.0,8.0,0.0,1.0,0.0,0.0,20010317,Premier League
+17/03/2001,2000/01,Charlton,Leeds,1,2,A,1.0,1.0,D,Clive Wilkes,7.0,7.0,3.0,5.0,19.0,13.0,2.0,5.0,3.0,5.0,0.0,0.0,20010317,Premier League
+17/03/2001,2000/01,Chelsea,Sunderland,2,4,A,2.0,1.0,H,Paul Durkin,14.0,11.0,6.0,7.0,15.0,26.0,4.0,5.0,0.0,0.0,0.0,0.0,20010317,Premier League
+17/03/2001,2000/01,West Ham,Ipswich,0,1,A,0.0,0.0,D,Mike Dean,5.0,13.0,2.0,5.0,14.0,8.0,4.0,5.0,0.0,0.0,0.0,0.0,20010317,Premier League
+17/03/2001,2000/01,Southampton,Everton,1,0,H,0.0,0.0,D,Mark Halsey,17.0,5.0,5.0,1.0,13.0,18.0,6.0,6.0,1.0,1.0,0.0,0.0,20010317,Premier League
+17/03/2001,2000/01,Bradford,Man City,2,2,D,0.0,1.0,A,Steve Dunn,16.0,10.0,7.0,3.0,13.0,12.0,3.0,3.0,2.0,1.0,0.0,0.0,20010317,Premier League
+10/03/2001,2000/01,Aston Villa,Ipswich,2,1,H,0.0,1.0,A,Rob Styles,9.0,8.0,5.0,3.0,15.0,11.0,6.0,2.0,1.0,1.0,0.0,0.0,20010310,Premier League
+7/03/2001,2000/01,West Ham,Chelsea,0,2,A,0.0,2.0,A,Alan Wiley,7.0,17.0,2.0,6.0,12.0,9.0,1.0,0.0,2.0,2.0,0.0,0.0,20010307,Premier League
+5/03/2001,2000/01,Sunderland,Aston Villa,1,1,D,0.0,0.0,D,Steve Lodge,18.0,6.0,12.0,2.0,17.0,18.0,5.0,3.0,1.0,2.0,0.0,0.0,20010305,Premier League
+4/03/2001,2000/01,Ipswich,Bradford,3,1,H,0.0,1.0,A,Andy D'Urso,21.0,7.0,8.0,5.0,13.0,14.0,7.0,2.0,0.0,4.0,0.0,0.0,20010304,Premier League
+3/03/2001,2000/01,Coventry,Chelsea,0,0,D,0.0,0.0,D,Steve Bennett,17.0,24.0,10.0,11.0,13.0,15.0,5.0,8.0,2.0,2.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Middlesbrough,Charlton,0,0,D,0.0,0.0,D,Mike Dean,8.0,11.0,2.0,8.0,13.0,12.0,4.0,5.0,1.0,1.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Derby,Tottenham,2,1,H,2.0,0.0,H,Rob Harris,8.0,13.0,4.0,7.0,20.0,12.0,6.0,7.0,2.0,3.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Leicester,Liverpool,2,0,H,0.0,0.0,D,Dermot Gallagher,9.0,8.0,7.0,3.0,9.0,7.0,4.0,7.0,1.0,1.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Leeds,Man United,1,1,D,0.0,0.0,D,Graham Barber,18.0,5.0,10.0,5.0,25.0,21.0,14.0,3.0,3.0,5.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Man City,Southampton,0,1,A,0.0,0.0,D,Jeff Winter,15.0,6.0,7.0,1.0,15.0,15.0,5.0,6.0,1.0,1.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Everton,Newcastle,1,1,D,0.0,0.0,D,David Ellaray,16.0,4.0,6.0,2.0,13.0,12.0,4.0,1.0,1.0,2.0,0.0,0.0,20010303,Premier League
+3/03/2001,2000/01,Arsenal,West Ham,3,0,H,3.0,0.0,H,Mike Riley,16.0,4.0,6.0,2.0,19.0,12.0,5.0,6.0,2.0,3.0,0.0,0.0,20010303,Premier League
+25/02/2001,2000/01,Man United,Arsenal,6,1,H,5.0,1.0,H,Paul Durkin,16.0,6.0,9.0,2.0,10.0,6.0,3.0,3.0,0.0,0.0,0.0,0.0,20010225,Premier League
+24/02/2001,2000/01,Middlesbrough,Southampton,0,1,A,0.0,0.0,D,Neale Barry,11.0,10.0,6.0,5.0,9.0,9.0,3.0,6.0,1.0,0.0,0.0,0.0,20010224,Premier League
+24/02/2001,2000/01,Ipswich,Everton,2,0,H,0.0,0.0,D,Graham Poll,12.0,8.0,6.0,2.0,11.0,14.0,3.0,2.0,1.0,2.0,0.0,1.0,20010224,Premier League
+24/02/2001,2000/01,Leicester,Sunderland,2,0,H,1.0,0.0,H,Andy D'Urso,11.0,9.0,7.0,3.0,13.0,16.0,6.0,5.0,0.0,4.0,0.0,1.0,20010224,Premier League
+24/02/2001,2000/01,Bradford,West Ham,1,2,A,0.0,1.0,A,Steve Lodge,15.0,11.0,5.0,5.0,9.0,10.0,7.0,1.0,1.0,2.0,0.0,0.0,20010224,Premier League
+24/02/2001,2000/01,Derby,Aston Villa,1,0,H,1.0,0.0,H,Alan Wiley,9.0,19.0,5.0,7.0,9.0,10.0,1.0,9.0,1.0,1.0,0.0,0.0,20010224,Premier League
+24/02/2001,2000/01,Tottenham,Leeds,1,2,A,1.0,1.0,D,Jeff Winter,13.0,15.0,4.0,9.0,16.0,14.0,5.0,12.0,2.0,1.0,0.0,0.0,20010224,Premier League
+24/02/2001,2000/01,Coventry,Charlton,2,2,D,1.0,1.0,D,Mark Halsey,17.0,15.0,7.0,7.0,15.0,11.0,3.0,7.0,0.0,0.0,0.0,0.0,20010224,Premier League
+24/02/2001,2000/01,Newcastle,Man City,0,1,A,0.0,0.0,D,Rob Harris,10.0,11.0,3.0,3.0,18.0,11.0,5.0,5.0,1.0,0.0,0.0,0.0,20010224,Premier League
+12/02/2001,2000/01,West Ham,Coventry,1,1,D,0.0,0.0,D,Dermot Gallagher,21.0,13.0,9.0,4.0,13.0,16.0,5.0,4.0,2.0,5.0,0.0,0.0,20010212,Premier League
+11/02/2001,2000/01,Charlton,Newcastle,2,0,H,2.0,0.0,H,Paul Durkin,11.0,5.0,4.0,3.0,10.0,12.0,4.0,11.0,2.0,1.0,0.0,0.0,20010211,Premier League
+10/02/2001,2000/01,Man City,Tottenham,0,1,A,0.0,0.0,D,Steve Dunn,11.0,11.0,4.0,4.0,17.0,10.0,7.0,3.0,1.0,0.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Leeds,Derby,0,0,D,0.0,0.0,D,Jeff Winter,12.0,3.0,6.0,2.0,11.0,17.0,17.0,4.0,2.0,5.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Everton,Leicester,2,1,H,2.0,0.0,H,Rob Styles,9.0,9.0,6.0,2.0,12.0,7.0,7.0,2.0,3.0,2.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Sunderland,Liverpool,1,1,D,0.0,0.0,D,Graham Barber,9.0,8.0,6.0,4.0,15.0,25.0,9.0,6.0,5.0,3.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Southampton,Bradford,2,0,H,0.0,0.0,D,Graham Poll,12.0,4.0,6.0,1.0,9.0,16.0,8.0,0.0,0.0,1.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Chelsea,Man United,1,1,D,1.0,0.0,H,David Ellaray,8.0,16.0,4.0,6.0,16.0,12.0,3.0,8.0,0.0,2.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Aston Villa,Middlesbrough,1,1,D,1.0,0.0,H,Clive Wilkes,15.0,6.0,4.0,3.0,11.0,11.0,7.0,4.0,1.0,1.0,0.0,0.0,20010210,Premier League
+10/02/2001,2000/01,Arsenal,Ipswich,1,0,H,0.0,0.0,D,Rob Harris,17.0,5.0,10.0,3.0,16.0,15.0,11.0,3.0,2.0,1.0,0.0,0.0,20010210,Premier League
+7/02/2001,2000/01,Everton,Leeds,2,2,D,1.0,0.0,H,Neale Barry,7.0,9.0,4.0,5.0,18.0,18.0,4.0,7.0,2.0,1.0,0.0,0.0,20010207,Premier League
+3/02/2001,2000/01,Liverpool,West Ham,3,0,H,2.0,0.0,H,Steve Bennett,14.0,8.0,10.0,3.0,9.0,6.0,5.0,3.0,0.0,1.0,0.0,1.0,20010203,Premier League
+3/02/2001,2000/01,Coventry,Arsenal,0,1,A,0.0,0.0,D,Mike Dean,12.0,8.0,4.0,6.0,13.0,14.0,3.0,7.0,3.0,4.0,0.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Ipswich,Leeds,1,2,A,0.0,2.0,A,Peter Jones,11.0,10.0,6.0,3.0,10.0,15.0,3.0,4.0,1.0,2.0,1.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Bradford,Aston Villa,0,3,A,0.0,0.0,D,Dermot Gallagher,9.0,13.0,2.0,6.0,14.0,14.0,3.0,4.0,2.0,0.0,0.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Tottenham,Charlton,0,0,D,0.0,0.0,D,David Ellaray,9.0,7.0,3.0,2.0,17.0,14.0,2.0,3.0,2.0,0.0,0.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Leicester,Chelsea,2,1,H,1.0,0.0,H,Steve Dunn,10.0,8.0,5.0,4.0,7.0,13.0,2.0,7.0,0.0,1.0,0.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Man United,Everton,1,0,H,0.0,0.0,D,Jeff Winter,8.0,5.0,1.0,1.0,8.0,11.0,2.0,5.0,0.0,2.0,0.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Derby,Sunderland,1,0,H,1.0,0.0,H,Barry Knight,9.0,17.0,3.0,5.0,16.0,18.0,3.0,4.0,7.0,3.0,0.0,0.0,20010203,Premier League
+3/02/2001,2000/01,Middlesbrough,Man City,1,1,D,0.0,1.0,A,Alan Wiley,14.0,6.0,6.0,3.0,12.0,14.0,4.0,2.0,0.0,2.0,1.0,0.0,20010203,Premier League
+31/01/2001,2000/01,Everton,Middlesbrough,2,2,D,0.0,1.0,A,Graham Barber,17.0,6.0,8.0,3.0,17.0,12.0,9.0,1.0,1.0,5.0,0.0,0.0,20010131,Premier League
+31/01/2001,2000/01,Chelsea,Newcastle,3,1,H,1.0,1.0,D,Mark Halsey,14.0,4.0,4.0,2.0,12.0,19.0,7.0,2.0,1.0,3.0,0.0,0.0,20010131,Premier League
+31/01/2001,2000/01,Man City,Liverpool,1,1,D,0.0,1.0,A,Peter Jones,4.0,16.0,2.0,3.0,17.0,13.0,5.0,11.0,1.0,1.0,0.0,0.0,20010131,Premier League
+31/01/2001,2000/01,Leeds,Coventry,1,0,H,0.0,0.0,D,Rob Harris,11.0,3.0,6.0,1.0,18.0,19.0,9.0,2.0,4.0,5.0,0.0,0.0,20010131,Premier League
+31/01/2001,2000/01,West Ham,Tottenham,0,0,D,0.0,0.0,D,Neale Barry,17.0,14.0,6.0,6.0,9.0,16.0,9.0,4.0,1.0,1.0,0.0,0.0,20010131,Premier League
+31/01/2001,2000/01,Southampton,Leicester,1,0,H,0.0,0.0,D,Steve Bennett,10.0,6.0,5.0,3.0,14.0,12.0,3.0,3.0,0.0,3.0,0.0,0.0,20010131,Premier League
+31/01/2001,2000/01,Sunderland,Man United,0,1,A,0.0,0.0,D,Graham Poll,9.0,13.0,2.0,7.0,15.0,13.0,3.0,2.0,2.0,0.0,2.0,1.0,20010131,Premier League
+30/01/2001,2000/01,Arsenal,Bradford,2,0,H,2.0,0.0,H,Clive Wilkes,20.0,6.0,8.0,2.0,12.0,14.0,6.0,3.0,1.0,2.0,0.0,0.0,20010130,Premier League
+30/01/2001,2000/01,Charlton,Derby,2,1,H,1.0,1.0,D,Mike Dean,13.0,6.0,9.0,3.0,13.0,14.0,9.0,3.0,2.0,1.0,0.0,0.0,20010130,Premier League
+24/01/2001,2000/01,Aston Villa,Leeds,1,2,A,1.0,1.0,D,Steve Bennett,12.0,7.0,4.0,3.0,11.0,10.0,5.0,3.0,2.0,0.0,0.0,0.0,20010124,Premier League
+22/01/2001,2000/01,Charlton,West Ham,1,1,D,1.0,0.0,H,Dermot Gallagher,9.0,18.0,3.0,3.0,11.0,8.0,0.0,5.0,0.0,1.0,0.0,0.0,20010122,Premier League
+21/01/2001,2000/01,Sunderland,Bradford,0,0,D,0.0,0.0,D,Mark Halsey,14.0,7.0,6.0,3.0,10.0,13.0,8.0,7.0,0.0,1.0,0.0,0.0,20010121,Premier League
+20/01/2001,2000/01,Liverpool,Middlesbrough,0,0,D,0.0,0.0,D,Steve Dunn,22.0,4.0,7.0,2.0,9.0,10.0,7.0,3.0,1.0,1.0,0.0,0.0,20010120,Premier League
+20/01/2001,2000/01,Tottenham,Southampton,0,0,D,0.0,0.0,D,Clive Wilkes,9.0,9.0,4.0,6.0,10.0,15.0,6.0,0.0,0.0,1.0,0.0,0.0,20010120,Premier League
+20/01/2001,2000/01,Derby,Man City,1,1,D,0.0,0.0,D,Jeff Winter,9.0,10.0,3.0,4.0,17.0,22.0,5.0,4.0,2.0,2.0,0.0,0.0,20010120,Premier League
+20/01/2001,2000/01,Coventry,Everton,1,3,A,0.0,3.0,A,Paul Durkin,9.0,8.0,5.0,4.0,9.0,22.0,15.0,3.0,0.0,1.0,0.0,0.0,20010120,Premier League
+20/01/2001,2000/01,Leeds,Newcastle,1,3,A,1.0,2.0,A,Alan Wiley,12.0,11.0,5.0,7.0,12.0,18.0,16.0,1.0,2.0,1.0,0.0,0.0,20010120,Premier League
+20/01/2001,2000/01,Chelsea,Ipswich,4,1,H,1.0,1.0,D,Andy D'Urso,23.0,5.0,10.0,2.0,11.0,12.0,11.0,1.0,3.0,0.0,0.0,1.0,20010120,Premier League
+20/01/2001,2000/01,Man United,Aston Villa,2,0,H,0.0,0.0,D,Mike Riley,12.0,5.0,7.0,3.0,10.0,19.0,7.0,3.0,1.0,2.0,0.0,0.0,20010120,Premier League
+20/01/2001,2000/01,Leicester,Arsenal,0,0,D,0.0,0.0,D,Barry Knight,3.0,13.0,0.0,4.0,6.0,8.0,1.0,9.0,2.0,2.0,1.0,0.0,20010120,Premier League
+14/01/2001,2000/01,Ipswich,Leicester,2,0,H,0.0,0.0,D,Mike Riley,22.0,6.0,9.0,3.0,14.0,10.0,8.0,1.0,1.0,1.0,0.0,0.0,20010114,Premier League
+13/01/2001,2000/01,Newcastle,Coventry,3,1,H,1.0,0.0,H,Jeff Winter,11.0,12.0,6.0,5.0,6.0,9.0,2.0,7.0,0.0,3.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Everton,Tottenham,0,0,D,0.0,0.0,D,Andy D'Urso,17.0,4.0,8.0,1.0,11.0,15.0,9.0,0.0,1.0,0.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Man City,Leeds,0,4,A,0.0,1.0,A,Mike Dean,5.0,10.0,3.0,6.0,23.0,17.0,4.0,5.0,5.0,3.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Bradford,Man United,0,3,A,0.0,0.0,D,Alan Wiley,9.0,20.0,3.0,11.0,11.0,11.0,1.0,9.0,1.0,0.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Aston Villa,Liverpool,0,3,A,0.0,2.0,A,Graham Barber,5.0,12.0,1.0,6.0,7.0,10.0,1.0,4.0,2.0,0.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Southampton,Charlton,0,0,D,0.0,0.0,D,Steve Lodge,17.0,10.0,6.0,4.0,8.0,12.0,9.0,3.0,0.0,0.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,West Ham,Sunderland,0,2,A,0.0,1.0,A,Matt Messias,13.0,7.0,6.0,5.0,20.0,21.0,9.0,6.0,4.0,2.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Arsenal,Chelsea,1,1,D,1.0,0.0,H,David Ellaray,15.0,12.0,8.0,8.0,13.0,15.0,10.0,3.0,1.0,4.0,0.0,0.0,20010113,Premier League
+13/01/2001,2000/01,Middlesbrough,Derby,4,0,H,1.0,0.0,H,Rob Styles,13.0,6.0,8.0,3.0,8.0,14.0,4.0,5.0,0.0,4.0,0.0,0.0,20010113,Premier League
+2/01/2001,2000/01,Tottenham,Newcastle,4,2,H,3.0,1.0,H,Steve Bennett,16.0,9.0,10.0,4.0,11.0,10.0,9.0,6.0,0.0,2.0,1.0,2.0,20010102,Premier League
+1/01/2001,2000/01,Leeds,Middlesbrough,1,1,D,0.0,1.0,A,David Ellaray,16.0,5.0,5.0,3.0,14.0,15.0,5.0,1.0,2.0,3.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Chelsea,Aston Villa,1,0,H,1.0,0.0,H,Paul Durkin,13.0,7.0,5.0,3.0,15.0,19.0,2.0,5.0,0.0,1.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Leicester,Bradford,1,2,A,1.0,2.0,A,Steve Lodge,9.0,8.0,3.0,4.0,11.0,14.0,5.0,3.0,0.0,3.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Man United,West Ham,3,1,H,2.0,0.0,H,Peter Jones,25.0,9.0,12.0,5.0,17.0,13.0,8.0,2.0,1.0,2.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Charlton,Arsenal,1,0,H,1.0,0.0,H,Graham Poll,9.0,10.0,4.0,5.0,15.0,12.0,6.0,12.0,1.0,1.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Sunderland,Ipswich,4,1,H,1.0,1.0,D,Neale Barry,16.0,9.0,9.0,3.0,15.0,10.0,4.0,3.0,1.0,5.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Coventry,Man City,1,1,D,0.0,0.0,D,Barry Knight,19.0,10.0,9.0,5.0,16.0,15.0,12.0,8.0,1.0,2.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Liverpool,Southampton,2,1,H,1.0,1.0,D,Dermot Gallagher,16.0,7.0,8.0,3.0,8.0,5.0,15.0,2.0,0.0,1.0,0.0,0.0,20010101,Premier League
+1/01/2001,2000/01,Derby,Everton,1,0,H,1.0,0.0,H,Alan Wiley,7.0,9.0,3.0,6.0,9.0,18.0,5.0,11.0,2.0,3.0,0.0,0.0,20010101,Premier League
+30/12/2000,2000/01,Arsenal,Sunderland,2,2,D,2.0,0.0,H,Graham Barber,17.0,14.0,9.0,7.0,14.0,18.0,11.0,1.0,0.0,3.0,0.0,0.0,20001230,Premier League
+30/12/2000,2000/01,Ipswich,Tottenham,3,0,H,1.0,0.0,H,Matt Messias,18.0,6.0,9.0,3.0,13.0,17.0,10.0,5.0,0.0,0.0,0.0,0.0,20001230,Premier League
+30/12/2000,2000/01,Newcastle,Man United,1,1,D,0.0,1.0,A,Mike Riley,14.0,8.0,4.0,6.0,13.0,10.0,6.0,3.0,2.0,3.0,0.0,0.0,20001230,Premier League
+30/12/2000,2000/01,Man City,Charlton,1,4,A,0.0,2.0,A,Clive Wilkes,8.0,13.0,1.0,8.0,11.0,14.0,7.0,4.0,1.0,2.0,0.0,0.0,20001230,Premier League
+30/12/2000,2000/01,Middlesbrough,Coventry,1,1,D,0.0,1.0,A,Dermot Gallagher,14.0,9.0,6.0,3.0,9.0,16.0,4.0,3.0,1.0,3.0,0.0,0.0,20001230,Premier League
+30/12/2000,2000/01,Southampton,Derby,1,0,H,0.0,0.0,D,Andy D'Urso,10.0,9.0,5.0,5.0,17.0,10.0,7.0,6.0,0.0,2.0,0.0,0.0,20001230,Premier League
+27/12/2000,2000/01,Southampton,Tottenham,2,0,H,2.0,0.0,H,David Ellaray,17.0,7.0,6.0,2.0,17.0,13.0,4.0,4.0,1.0,3.0,0.0,0.0,20001227,Premier League
+26/12/2000,2000/01,Middlesbrough,Liverpool,1,0,H,1.0,0.0,H,Steve Lodge,7.0,11.0,2.0,5.0,7.0,9.0,2.0,6.0,2.0,2.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Everton,Coventry,1,2,A,0.0,0.0,D,Neale Barry,17.0,10.0,9.0,5.0,14.0,16.0,5.0,2.0,2.0,1.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Bradford,Sunderland,1,4,A,0.0,1.0,A,Paul Durkin,11.0,16.0,3.0,11.0,17.0,17.0,9.0,8.0,2.0,0.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Man City,Derby,0,0,D,0.0,0.0,D,Mike Riley,15.0,14.0,7.0,3.0,15.0,14.0,7.0,7.0,2.0,2.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Newcastle,Leeds,2,1,H,2.0,1.0,H,Andy D'Urso,13.0,8.0,4.0,5.0,23.0,17.0,7.0,2.0,4.0,2.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,West Ham,Charlton,5,0,H,3.0,0.0,H,Steve Dunn,17.0,12.0,10.0,8.0,19.0,11.0,5.0,8.0,1.0,0.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Arsenal,Leicester,6,1,H,1.0,0.0,H,Dermot Gallagher,27.0,2.0,15.0,2.0,14.0,11.0,14.0,0.0,0.0,0.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Aston Villa,Man United,0,1,A,0.0,0.0,D,Graham Poll,6.0,14.0,3.0,3.0,15.0,16.0,2.0,4.0,1.0,2.0,0.0,0.0,20001226,Premier League
+26/12/2000,2000/01,Ipswich,Chelsea,2,2,D,1.0,2.0,A,Jeff Winter,19.0,7.0,13.0,4.0,5.0,9.0,8.0,2.0,0.0,4.0,0.0,0.0,20001226,Premier League
+23/12/2000,2000/01,Leicester,West Ham,2,1,H,1.0,1.0,D,Graham Poll,11.0,11.0,6.0,4.0,7.0,5.0,6.0,5.0,1.0,0.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Derby,Newcastle,2,0,H,1.0,0.0,H,Rob Harris,8.0,8.0,5.0,4.0,17.0,16.0,2.0,3.0,1.0,2.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Liverpool,Arsenal,4,0,H,1.0,0.0,H,Paul Durkin,12.0,12.0,6.0,6.0,18.0,14.0,6.0,3.0,2.0,0.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Charlton,Everton,1,0,H,1.0,0.0,H,Graham Barber,10.0,10.0,7.0,4.0,15.0,21.0,13.0,6.0,1.0,4.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Man United,Ipswich,2,0,H,2.0,0.0,H,Steve Bennett,20.0,5.0,4.0,3.0,7.0,8.0,11.0,3.0,0.0,1.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Sunderland,Man City,1,0,H,1.0,0.0,H,David Ellaray,9.0,9.0,5.0,3.0,14.0,18.0,8.0,6.0,2.0,2.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Chelsea,Bradford,3,0,H,1.0,0.0,H,Barry Knight,17.0,7.0,8.0,1.0,8.0,12.0,5.0,4.0,0.0,1.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Tottenham,Middlesbrough,0,0,D,0.0,0.0,D,Rob Styles,16.0,5.0,8.0,0.0,22.0,13.0,8.0,4.0,2.0,3.0,0.0,0.0,20001223,Premier League
+23/12/2000,2000/01,Leeds,Aston Villa,1,2,A,0.0,1.0,A,Mark Halsey,15.0,8.0,5.0,5.0,18.0,18.0,10.0,2.0,1.0,4.0,0.0,0.0,20001223,Premier League
+22/12/2000,2000/01,Coventry,Southampton,1,1,D,1.0,0.0,H,Alan Wiley,12.0,10.0,5.0,2.0,12.0,13.0,8.0,6.0,1.0,1.0,0.0,0.0,20001222,Premier League
+18/12/2000,2000/01,Tottenham,Arsenal,1,1,D,1.0,0.0,H,Jeff Winter,8.0,17.0,4.0,10.0,20.0,14.0,3.0,7.0,2.0,1.0,0.0,0.0,20001218,Premier League
+17/12/2000,2000/01,Man United,Liverpool,0,1,A,0.0,1.0,A,Mike Riley,6.0,9.0,4.0,4.0,10.0,11.0,9.0,2.0,1.0,0.0,1.0,0.0,20001217,Premier League
+16/12/2000,2000/01,Derby,Coventry,1,0,H,1.0,0.0,H,Matt Messias,4.0,14.0,3.0,5.0,17.0,10.0,3.0,5.0,1.0,3.0,0.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Leicester,Charlton,3,1,H,1.0,1.0,D,Alan Wiley,9.0,12.0,5.0,8.0,11.0,16.0,5.0,5.0,1.0,2.0,0.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Everton,West Ham,1,1,D,0.0,0.0,D,Clive Wilkes,15.0,9.0,5.0,4.0,10.0,7.0,9.0,7.0,1.0,2.0,0.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Aston Villa,Man City,2,2,D,0.0,0.0,D,Andy D'Urso,10.0,9.0,5.0,4.0,8.0,16.0,5.0,4.0,2.0,1.0,1.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Newcastle,Bradford,2,1,H,1.0,0.0,H,Steve Dunn,17.0,7.0,6.0,3.0,16.0,17.0,4.0,3.0,0.0,2.0,0.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Leeds,Sunderland,2,0,H,1.0,0.0,H,Rob Styles,17.0,17.0,8.0,6.0,16.0,20.0,8.0,5.0,3.0,4.0,0.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Middlesbrough,Chelsea,1,0,H,0.0,0.0,D,Peter Jones,7.0,9.0,4.0,3.0,14.0,16.0,3.0,5.0,0.0,2.0,0.0,0.0,20001216,Premier League
+16/12/2000,2000/01,Ipswich,Southampton,3,1,H,0.0,1.0,A,Barry Knight,15.0,13.0,7.0,4.0,11.0,12.0,6.0,1.0,1.0,2.0,0.0,0.0,20001216,Premier League
+10/12/2000,2000/01,Liverpool,Ipswich,0,1,A,0.0,1.0,A,Alan Wiley,14.0,11.0,5.0,6.0,12.0,14.0,8.0,5.0,1.0,3.0,0.0,0.0,20001210,Premier League
+10/12/2000,2000/01,Coventry,Leicester,1,0,H,1.0,0.0,H,Steve Dunn,12.0,6.0,5.0,1.0,11.0,15.0,8.0,10.0,0.0,1.0,0.0,0.0,20001210,Premier League
+9/12/2000,2000/01,Chelsea,Derby,4,1,H,3.0,0.0,H,Paul Taylor,19.0,5.0,10.0,3.0,8.0,14.0,3.0,6.0,0.0,0.0,0.0,0.0,20001209,Premier League
+9/12/2000,2000/01,Sunderland,Middlesbrough,1,0,H,0.0,0.0,D,Graham Poll,8.0,8.0,5.0,5.0,22.0,21.0,5.0,3.0,1.0,3.0,0.0,0.0,20001209,Premier League
+9/12/2000,2000/01,Charlton,Man United,3,3,D,1.0,2.0,A,Steve Lodge,15.0,15.0,8.0,8.0,6.0,10.0,9.0,6.0,0.0,1.0,0.0,0.0,20001209,Premier League
+9/12/2000,2000/01,Bradford,Tottenham,3,3,D,1.0,2.0,A,Neale Barry,13.0,6.0,6.0,4.0,6.0,16.0,7.0,2.0,2.0,0.0,0.0,0.0,20001209,Premier League
+9/12/2000,2000/01,West Ham,Aston Villa,1,1,D,1.0,1.0,D,Mike Riley,13.0,15.0,5.0,4.0,14.0,15.0,4.0,4.0,1.0,3.0,0.0,0.0,20001209,Premier League
+9/12/2000,2000/01,Arsenal,Newcastle,5,0,H,2.0,0.0,H,Mike Dean,15.0,3.0,10.0,1.0,10.0,11.0,5.0,2.0,0.0,3.0,0.0,0.0,20001209,Premier League
+9/12/2000,2000/01,Southampton,Leeds,1,0,H,1.0,0.0,H,Paul Durkin,12.0,13.0,3.0,5.0,13.0,15.0,2.0,10.0,3.0,4.0,1.0,0.0,20001209,Premier League
+9/12/2000,2000/01,Man City,Everton,5,0,H,3.0,0.0,H,Steve Bennett,13.0,14.0,9.0,4.0,12.0,12.0,5.0,13.0,0.0,1.0,0.0,0.0,20001209,Premier League
+4/12/2000,2000/01,Sunderland,Everton,2,0,H,1.0,0.0,H,Peter Jones,24.0,7.0,11.0,2.0,16.0,23.0,8.0,4.0,0.0,3.0,0.0,0.0,20001204,Premier League
+3/12/2000,2000/01,Chelsea,Man City,2,1,H,2.0,0.0,H,Dermot Gallagher,9.0,11.0,7.0,5.0,9.0,12.0,7.0,10.0,2.0,0.0,0.0,0.0,20001203,Premier League
+2/12/2000,2000/01,Arsenal,Southampton,1,0,H,0.0,0.0,D,Steve Dunn,24.0,7.0,12.0,5.0,14.0,15.0,16.0,8.0,0.0,2.0,0.0,0.0,20001202,Premier League
+2/12/2000,2000/01,Ipswich,Derby,0,1,A,0.0,1.0,A,Mark Halsey,11.0,3.0,5.0,3.0,13.0,13.0,6.0,1.0,1.0,1.0,0.0,0.0,20001202,Premier League
+2/12/2000,2000/01,West Ham,Middlesbrough,1,0,H,1.0,0.0,H,Roy Burton,14.0,5.0,6.0,3.0,17.0,19.0,7.0,5.0,1.0,4.0,0.0,1.0,20001202,Premier League
+2/12/2000,2000/01,Bradford,Coventry,2,1,H,0.0,0.0,D,Mike Dean,10.0,13.0,6.0,7.0,11.0,12.0,9.0,8.0,3.0,2.0,0.0,0.0,20001202,Premier League
+2/12/2000,2000/01,Liverpool,Charlton,3,0,H,1.0,0.0,H,Rob Styles,13.0,7.0,3.0,2.0,10.0,9.0,6.0,5.0,1.0,1.0,0.0,0.0,20001202,Premier League
+2/12/2000,2000/01,Aston Villa,Newcastle,1,1,D,1.0,0.0,H,David Ellaray,8.0,9.0,4.0,5.0,11.0,12.0,8.0,2.0,2.0,1.0,0.0,0.0,20001202,Premier League
+2/12/2000,2000/01,Man United,Tottenham,2,0,H,1.0,0.0,H,Graham Poll,16.0,5.0,8.0,3.0,7.0,8.0,7.0,5.0,2.0,1.0,0.0,0.0,20001202,Premier League
+2/12/2000,2000/01,Leicester,Leeds,3,1,H,3.0,0.0,H,Steve Bennett,8.0,12.0,5.0,4.0,10.0,7.0,0.0,6.0,1.0,2.0,0.0,1.0,20001202,Premier League
+26/11/2000,2000/01,Newcastle,Liverpool,2,1,H,1.0,0.0,H,Barry Knight,9.0,13.0,6.0,9.0,17.0,15.0,5.0,11.0,3.0,2.0,0.0,0.0,20001126,Premier League
+26/11/2000,2000/01,Leeds,Arsenal,1,0,H,0.0,0.0,D,Dermot Gallagher,12.0,9.0,6.0,3.0,19.0,22.0,8.0,4.0,1.0,7.0,0.0,0.0,20001126,Premier League
+25/11/2000,2000/01,Southampton,West Ham,2,3,A,1.0,2.0,A,Steve Bennett,10.0,14.0,5.0,8.0,12.0,10.0,6.0,10.0,1.0,2.0,0.0,0.0,20001125,Premier League
+25/11/2000,2000/01,Coventry,Aston Villa,1,1,D,0.0,1.0,A,Jeff Winter,10.0,7.0,2.0,4.0,9.0,19.0,6.0,1.0,1.0,2.0,0.0,0.0,20001125,Premier League
+25/11/2000,2000/01,Tottenham,Leicester,3,0,H,2.0,0.0,H,Rob Harris,15.0,11.0,7.0,5.0,21.0,15.0,5.0,8.0,1.0,3.0,0.0,1.0,20001125,Premier League
+25/11/2000,2000/01,Middlesbrough,Bradford,2,2,D,0.0,2.0,A,Paul Taylor,14.0,9.0,9.0,5.0,17.0,18.0,6.0,4.0,0.0,2.0,1.0,0.0,20001125,Premier League
+25/11/2000,2000/01,Derby,Man United,0,3,A,0.0,0.0,D,David Ellaray,1.0,12.0,0.0,7.0,12.0,12.0,3.0,9.0,2.0,1.0,0.0,0.0,20001125,Premier League
+25/11/2000,2000/01,Everton,Chelsea,2,1,H,0.0,1.0,A,Rob Styles,11.0,10.0,5.0,6.0,11.0,18.0,1.0,4.0,0.0,3.0,0.0,1.0,20001125,Premier League
+25/11/2000,2000/01,Man City,Ipswich,2,3,A,0.0,2.0,A,Mike Dean,9.0,11.0,4.0,4.0,8.0,5.0,6.0,5.0,0.0,2.0,0.0,0.0,20001125,Premier League
+25/11/2000,2000/01,Charlton,Sunderland,0,1,A,0.0,0.0,D,Steve Dunn,10.0,8.0,2.0,3.0,16.0,16.0,7.0,8.0,0.0,1.0,0.0,0.0,20001125,Premier League
+20/11/2000,2000/01,Coventry,Ipswich,0,1,A,0.0,0.0,D,David Ellaray,12.0,10.0,5.0,4.0,10.0,12.0,5.0,5.0,1.0,1.0,0.0,0.0,20001120,Premier League
+19/11/2000,2000/01,Tottenham,Liverpool,2,1,H,2.0,1.0,H,Mark Halsey,6.0,9.0,4.0,4.0,11.0,13.0,6.0,5.0,1.0,2.0,0.0,0.0,20001119,Premier League
+18/11/2000,2000/01,Derby,Bradford,2,0,H,0.0,0.0,D,Andy D'Urso,7.0,7.0,3.0,4.0,10.0,18.0,2.0,4.0,3.0,1.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Southampton,Aston Villa,2,0,H,2.0,0.0,H,Peter Jones,7.0,9.0,3.0,3.0,10.0,10.0,3.0,3.0,0.0,0.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Newcastle,Sunderland,1,2,A,1.0,0.0,H,Graham Poll,19.0,9.0,9.0,6.0,17.0,26.0,1.0,4.0,1.0,3.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Man City,Man United,0,1,A,0.0,1.0,A,Steve Dunn,10.0,8.0,4.0,4.0,13.0,8.0,10.0,11.0,3.0,1.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Everton,Arsenal,2,0,H,0.0,0.0,D,Mike Riley,4.0,4.0,2.0,2.0,20.0,12.0,3.0,5.0,3.0,1.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Charlton,Chelsea,2,0,H,1.0,0.0,H,Paul Durkin,10.0,13.0,6.0,3.0,18.0,22.0,4.0,5.0,2.0,3.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Middlesbrough,Leicester,0,3,A,0.0,2.0,A,Alan Wiley,11.0,9.0,4.0,7.0,8.0,12.0,6.0,2.0,3.0,1.0,0.0,0.0,20001118,Premier League
+18/11/2000,2000/01,Leeds,West Ham,0,1,A,0.0,1.0,A,Paul Taylor,15.0,4.0,6.0,3.0,14.0,19.0,2.0,2.0,1.0,1.0,0.0,0.0,20001118,Premier League
+12/11/2000,2000/01,Chelsea,Leeds,1,1,D,0.0,0.0,D,Graham Poll,12.0,11.0,7.0,3.0,19.0,24.0,3.0,2.0,4.0,4.0,0.0,0.0,20001112,Premier League
+12/11/2000,2000/01,Liverpool,Coventry,4,1,H,1.0,0.0,H,Mike Riley,19.0,10.0,13.0,5.0,10.0,12.0,7.0,1.0,1.0,0.0,0.0,0.0,20001112,Premier League
+11/11/2000,2000/01,Sunderland,Southampton,2,2,D,1.0,1.0,D,Mike Dean,11.0,10.0,5.0,5.0,13.0,21.0,7.0,4.0,1.0,1.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,West Ham,Man City,4,1,H,0.0,1.0,A,Jeff Winter,22.0,10.0,11.0,5.0,7.0,7.0,7.0,5.0,1.0,1.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,Arsenal,Derby,0,0,D,0.0,0.0,D,Steve Lodge,15.0,9.0,9.0,2.0,12.0,13.0,10.0,0.0,0.0,2.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,Bradford,Everton,0,1,A,0.0,0.0,D,Rob Harris,11.0,9.0,6.0,4.0,8.0,18.0,3.0,3.0,1.0,2.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,Ipswich,Charlton,2,0,H,0.0,0.0,D,Steve Bennett,30.0,7.0,13.0,4.0,8.0,12.0,13.0,3.0,0.0,2.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,Aston Villa,Tottenham,2,0,H,1.0,0.0,H,Barry Knight,11.0,3.0,6.0,2.0,15.0,13.0,10.0,1.0,0.0,3.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,Leicester,Newcastle,1,1,D,0.0,0.0,D,Rob Styles,8.0,7.0,4.0,1.0,7.0,8.0,0.0,3.0,1.0,1.0,0.0,0.0,20001111,Premier League
+11/11/2000,2000/01,Man United,Middlesbrough,2,1,H,0.0,1.0,A,Paul Durkin,18.0,5.0,11.0,1.0,5.0,10.0,10.0,0.0,0.0,0.0,0.0,0.0,20001111,Premier League
+6/11/2000,2000/01,Derby,West Ham,0,0,D,0.0,0.0,D,Paul Durkin,14.0,6.0,2.0,6.0,14.0,18.0,6.0,1.0,1.0,1.0,0.0,0.0,20001106,Premier League
+5/11/2000,2000/01,Everton,Aston Villa,0,1,A,0.0,0.0,D,Steve Lodge,14.0,4.0,6.0,1.0,17.0,23.0,6.0,2.0,3.0,2.0,0.0,0.0,20001105,Premier League
+4/11/2000,2000/01,Charlton,Bradford,2,0,H,2.0,0.0,H,Neale Barry,11.0,12.0,7.0,8.0,10.0,20.0,3.0,6.0,0.0,1.0,0.0,1.0,20001104,Premier League
+4/11/2000,2000/01,Coventry,Man United,1,2,A,0.0,2.0,A,Graham Poll,4.0,11.0,2.0,6.0,17.0,8.0,3.0,9.0,1.0,1.0,0.0,0.0,20001104,Premier League
+4/11/2000,2000/01,Newcastle,Ipswich,2,1,H,1.0,1.0,D,Alan Wiley,11.0,8.0,6.0,5.0,13.0,7.0,7.0,4.0,1.0,0.0,0.0,0.0,20001104,Premier League
+4/11/2000,2000/01,Southampton,Chelsea,3,2,H,2.0,0.0,H,Jeff Winter,10.0,9.0,4.0,4.0,16.0,11.0,7.0,7.0,4.0,2.0,0.0,0.0,20001104,Premier League
+4/11/2000,2000/01,Leeds,Liverpool,4,3,H,1.0,2.0,A,David Ellaray,10.0,14.0,7.0,8.0,18.0,18.0,7.0,7.0,1.0,4.0,0.0,0.0,20001104,Premier League
+4/11/2000,2000/01,Tottenham,Sunderland,2,1,H,1.0,0.0,H,Dermot Gallagher,11.0,12.0,6.0,3.0,18.0,9.0,8.0,7.0,1.0,0.0,1.0,0.0,20001104,Premier League
+4/11/2000,2000/01,Middlesbrough,Arsenal,0,1,A,0.0,1.0,A,Andy D'Urso,4.0,11.0,3.0,8.0,10.0,11.0,5.0,8.0,1.0,1.0,1.0,0.0,20001104,Premier League
+4/11/2000,2000/01,Man City,Leicester,0,1,A,0.0,0.0,D,Mark Halsey,14.0,3.0,3.0,2.0,12.0,14.0,9.0,4.0,1.0,2.0,0.0,0.0,20001104,Premier League
+29/10/2000,2000/01,Liverpool,Everton,3,1,H,1.0,1.0,D,Paul Durkin,10.0,9.0,8.0,7.0,10.0,10.0,9.0,6.0,0.0,1.0,0.0,1.0,20001029,Premier League
+29/10/2000,2000/01,Bradford,Leeds,1,1,D,1.0,0.0,H,Steve Lodge,11.0,12.0,6.0,9.0,15.0,15.0,5.0,9.0,3.0,4.0,0.0,0.0,20001029,Premier League
+28/10/2000,2000/01,Sunderland,Coventry,1,0,H,0.0,0.0,D,Alan Wiley,11.0,10.0,7.0,4.0,17.0,10.0,1.0,3.0,2.0,2.0,0.0,0.0,20001028,Premier League
+28/10/2000,2000/01,Leicester,Derby,2,1,H,1.0,1.0,D,Graham Poll,9.0,7.0,5.0,2.0,9.0,18.0,7.0,3.0,0.0,3.0,0.0,0.0,20001028,Premier League
+28/10/2000,2000/01,Aston Villa,Charlton,2,1,H,2.0,0.0,H,Dermot Gallagher,12.0,7.0,7.0,4.0,13.0,11.0,9.0,6.0,3.0,2.0,0.0,0.0,20001028,Premier League
+28/10/2000,2000/01,Ipswich,Middlesbrough,2,1,H,2.0,0.0,H,Neale Barry,19.0,7.0,11.0,3.0,8.0,17.0,6.0,1.0,0.0,2.0,0.0,0.0,20001028,Premier League
+28/10/2000,2000/01,Man United,Southampton,5,0,H,2.0,0.0,H,Andy D'Urso,16.0,12.0,8.0,5.0,5.0,9.0,7.0,7.0,0.0,0.0,0.0,0.0,20001028,Premier League
+28/10/2000,2000/01,Arsenal,Man City,5,0,H,1.0,0.0,H,Rob Styles,22.0,6.0,14.0,2.0,6.0,13.0,10.0,4.0,0.0,3.0,0.0,1.0,20001028,Premier League
+28/10/2000,2000/01,West Ham,Newcastle,1,0,H,0.0,0.0,D,Mike Riley,11.0,12.0,4.0,5.0,15.0,10.0,3.0,8.0,3.0,2.0,0.0,0.0,20001028,Premier League
+28/10/2000,2000/01,Chelsea,Tottenham,3,0,H,2.0,0.0,H,Steve Dunn,9.0,6.0,7.0,3.0,12.0,14.0,2.0,3.0,3.0,3.0,0.0,0.0,20001028,Premier League
+23/10/2000,2000/01,Southampton,Man City,0,2,A,0.0,1.0,A,Alan Wiley,19.0,11.0,6.0,4.0,10.0,15.0,9.0,3.0,1.0,2.0,0.0,0.0,20001023,Premier League
+22/10/2000,2000/01,Aston Villa,Sunderland,0,0,D,0.0,0.0,D,Rob Styles,17.0,7.0,4.0,3.0,11.0,17.0,7.0,3.0,1.0,3.0,0.0,0.0,20001022,Premier League
+21/10/2000,2000/01,Bradford,Ipswich,0,2,A,0.0,1.0,A,Paul Taylor,7.0,12.0,3.0,3.0,15.0,14.0,9.0,1.0,1.0,0.0,0.0,0.0,20001021,Premier League
+21/10/2000,2000/01,Chelsea,Coventry,6,1,H,2.0,0.0,H,Steve Lodge,33.0,3.0,19.0,3.0,6.0,8.0,10.0,0.0,0.0,1.0,0.0,1.0,20001021,Premier League
+21/10/2000,2000/01,Man United,Leeds,3,0,H,1.0,0.0,H,Jeff Winter,26.0,5.0,14.0,0.0,9.0,18.0,12.0,4.0,0.0,2.0,0.0,0.0,20001021,Premier League
+21/10/2000,2000/01,Charlton,Middlesbrough,1,0,H,0.0,0.0,D,Mike Riley,5.0,8.0,2.0,6.0,11.0,19.0,5.0,6.0,2.0,2.0,0.0,0.0,20001021,Premier League
+21/10/2000,2000/01,Newcastle,Everton,0,1,A,0.0,0.0,D,Mark Halsey,11.0,9.0,4.0,4.0,9.0,12.0,5.0,4.0,1.0,3.0,0.0,0.0,20001021,Premier League
+21/10/2000,2000/01,Tottenham,Derby,3,1,H,2.0,1.0,H,Mike Dean,18.0,8.0,8.0,7.0,9.0,16.0,7.0,4.0,1.0,2.0,0.0,0.0,20001021,Premier League
+21/10/2000,2000/01,Liverpool,Leicester,1,0,H,0.0,0.0,D,Andy D'Urso,24.0,8.0,11.0,3.0,8.0,10.0,10.0,9.0,1.0,2.0,0.0,0.0,20001021,Premier League
+21/10/2000,2000/01,West Ham,Arsenal,1,2,A,0.0,2.0,A,Dermot Gallagher,11.0,13.0,3.0,5.0,15.0,11.0,5.0,4.0,1.0,0.0,0.0,0.0,20001021,Premier League
+16/10/2000,2000/01,Middlesbrough,Newcastle,1,3,A,0.0,1.0,A,Steve Dunn,8.0,15.0,2.0,8.0,8.0,13.0,6.0,6.0,2.0,1.0,0.0,0.0,20001016,Premier League
+15/10/2000,2000/01,Derby,Liverpool,0,4,A,0.0,1.0,A,Steve Bennett,6.0,16.0,0.0,11.0,18.0,13.0,4.0,3.0,1.0,1.0,0.0,0.0,20001015,Premier League
+14/10/2000,2000/01,Arsenal,Aston Villa,1,0,H,0.0,0.0,D,Rob Harris,16.0,8.0,10.0,3.0,12.0,20.0,7.0,4.0,1.0,4.0,0.0,1.0,20001014,Premier League
+14/10/2000,2000/01,Leicester,Man United,0,3,A,0.0,1.0,A,Paul Durkin,10.0,16.0,4.0,5.0,8.0,11.0,6.0,7.0,0.0,0.0,0.0,0.0,20001014,Premier League
+14/10/2000,2000/01,Man City,Bradford,2,0,H,2.0,0.0,H,Barry Knight,13.0,10.0,10.0,2.0,10.0,16.0,5.0,6.0,0.0,2.0,0.0,0.0,20001014,Premier League
+14/10/2000,2000/01,Coventry,Tottenham,2,1,H,2.0,0.0,H,Peter Jones,0.0,4.0,5.0,5.0,12.0,16.0,3.0,5.0,0.0,4.0,1.0,0.0,20001014,Premier League
+14/10/2000,2000/01,Sunderland,Chelsea,1,0,H,0.0,0.0,D,Jeff Winter,16.0,11.0,11.0,2.0,12.0,18.0,5.0,0.0,0.0,1.0,1.0,1.0,20001014,Premier League
+14/10/2000,2000/01,Everton,Southampton,1,1,D,0.0,0.0,D,David Ellaray,7.0,7.0,3.0,4.0,16.0,13.0,9.0,8.0,1.0,3.0,0.0,0.0,20001014,Premier League
+14/10/2000,2000/01,Leeds,Charlton,3,1,H,1.0,0.0,H,Mike Dean,22.0,10.0,10.0,8.0,7.0,9.0,8.0,5.0,0.0,1.0,0.0,0.0,20001014,Premier League
+14/10/2000,2000/01,Ipswich,West Ham,1,1,D,1.0,0.0,H,Neale Barry,11.0,7.0,8.0,2.0,10.0,11.0,8.0,5.0,0.0,4.0,0.0,0.0,20001014,Premier League
+1/10/2000,2000/01,Arsenal,Man United,1,0,H,1.0,0.0,H,Graham Barber,7.0,13.0,5.0,4.0,18.0,17.0,3.0,11.0,2.0,3.0,0.0,0.0,20001001,Premier League
+1/10/2000,2000/01,Sunderland,Leicester,0,0,D,0.0,0.0,D,Steve Lodge,11.0,8.0,5.0,2.0,12.0,8.0,6.0,2.0,3.0,1.0,0.0,0.0,20001001,Premier League
+1/10/2000,2000/01,Chelsea,Liverpool,3,0,H,2.0,0.0,H,Dermot Gallagher,11.0,10.0,5.0,2.0,14.0,14.0,3.0,1.0,1.0,1.0,0.0,0.0,20001001,Premier League
+30/09/2000,2000/01,Southampton,Middlesbrough,1,3,A,0.0,2.0,A,Graham Poll,16.0,7.0,8.0,5.0,6.0,22.0,6.0,6.0,2.0,2.0,0.0,0.0,20000930,Premier League
+30/09/2000,2000/01,Leeds,Tottenham,4,3,H,0.0,1.0,A,Neale Barry,14.0,10.0,7.0,5.0,11.0,20.0,6.0,4.0,0.0,2.0,0.0,0.0,20000930,Premier League
+30/09/2000,2000/01,Man City,Newcastle,0,1,A,0.0,0.0,D,Paul Taylor,9.0,15.0,7.0,9.0,16.0,12.0,10.0,8.0,0.0,1.0,0.0,0.0,20000930,Premier League
+30/09/2000,2000/01,Everton,Ipswich,0,3,A,0.0,1.0,A,Jeff Winter,7.0,9.0,3.0,7.0,6.0,5.0,4.0,1.0,1.0,0.0,0.0,0.0,20000930,Premier League
+30/09/2000,2000/01,Charlton,Coventry,2,2,D,0.0,1.0,A,Rob Styles,12.0,10.0,8.0,6.0,8.0,16.0,6.0,6.0,1.0,2.0,0.0,0.0,20000930,Premier League
+30/09/2000,2000/01,West Ham,Bradford,1,1,D,1.0,0.0,H,Mike Dean,14.0,9.0,6.0,6.0,14.0,10.0,7.0,2.0,3.0,2.0,0.0,0.0,20000930,Premier League
+30/09/2000,2000/01,Aston Villa,Derby,4,1,H,2.0,0.0,H,David Ellaray,12.0,11.0,7.0,6.0,0.0,1.0,6.0,6.0,1.0,1.0,0.0,0.0,20000930,Premier League
+24/09/2000,2000/01,Leicester,Everton,1,1,D,1.0,0.0,H,Alan Wiley,10.0,9.0,4.0,3.0,14.0,13.0,9.0,3.0,3.0,1.0,0.0,0.0,20000924,Premier League
+23/09/2000,2000/01,Ipswich,Arsenal,1,1,D,0.0,0.0,D,Paul Durkin,17.0,10.0,6.0,4.0,8.0,13.0,4.0,7.0,1.0,2.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Bradford,Southampton,0,1,A,0.0,1.0,A,Steve Dunn,14.0,6.0,6.0,4.0,14.0,18.0,7.0,5.0,3.0,1.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Tottenham,Man City,0,0,D,0.0,0.0,D,Steve Bennett,18.0,7.0,5.0,2.0,10.0,14.0,5.0,4.0,0.0,2.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Man United,Chelsea,3,3,D,3.0,2.0,H,Peter Jones,11.0,13.0,5.0,5.0,15.0,19.0,8.0,4.0,3.0,2.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Derby,Leeds,1,1,D,0.0,1.0,A,Barry Knight,13.0,16.0,7.0,6.0,17.0,15.0,7.0,4.0,2.0,2.0,1.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Coventry,West Ham,0,3,A,0.0,2.0,A,Neale Barry,9.0,12.0,2.0,10.0,12.0,11.0,5.0,6.0,0.0,1.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Liverpool,Sunderland,1,1,D,1.0,1.0,D,Mike Riley,11.0,8.0,6.0,3.0,14.0,18.0,12.0,3.0,2.0,2.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Newcastle,Charlton,0,1,A,0.0,1.0,A,Andy D'Urso,12.0,4.0,5.0,2.0,14.0,10.0,4.0,7.0,1.0,2.0,0.0,0.0,20000923,Premier League
+23/09/2000,2000/01,Middlesbrough,Aston Villa,1,1,D,0.0,0.0,D,Mark Halsey,12.0,15.0,5.0,7.0,7.0,14.0,5.0,5.0,3.0,0.0,0.0,0.0,20000923,Premier League
+17/09/2000,2000/01,West Ham,Liverpool,1,1,D,0.0,1.0,A,David Ellaray,15.0,7.0,4.0,2.0,5.0,13.0,9.0,0.0,0.0,2.0,0.0,0.0,20000917,Premier League
+17/09/2000,2000/01,Chelsea,Leicester,0,2,A,0.0,1.0,A,Graham Barber,16.0,7.0,10.0,5.0,16.0,17.0,15.0,3.0,3.0,1.0,0.0,0.0,20000917,Premier League
+17/09/2000,2000/01,Man City,Middlesbrough,1,1,D,0.0,0.0,D,Steve Lodge,11.0,4.0,4.0,2.0,15.0,11.0,9.0,3.0,2.0,5.0,0.0,0.0,20000917,Premier League
+16/09/2000,2000/01,Southampton,Newcastle,2,0,H,0.0,0.0,D,Barry Knight,13.0,10.0,9.0,7.0,14.0,14.0,4.0,8.0,0.0,0.0,0.0,0.0,20000916,Premier League
+16/09/2000,2000/01,Charlton,Tottenham,1,0,H,1.0,0.0,H,Jeff Winter,9.0,10.0,5.0,5.0,8.0,10.0,7.0,5.0,0.0,0.0,0.0,0.0,20000916,Premier League
+16/09/2000,2000/01,Aston Villa,Bradford,2,0,H,1.0,0.0,H,Rob Styles,12.0,8.0,7.0,4.0,8.0,12.0,5.0,6.0,0.0,2.0,0.0,0.0,20000916,Premier League
+16/09/2000,2000/01,Arsenal,Coventry,2,1,H,1.0,0.0,H,Mike Dean,18.0,6.0,13.0,2.0,5.0,13.0,8.0,4.0,1.0,2.0,0.0,0.0,20000916,Premier League
+16/09/2000,2000/01,Everton,Man United,1,3,A,0.0,3.0,A,Dermot Gallagher,6.0,17.0,4.0,9.0,10.0,11.0,6.0,5.0,4.0,1.0,0.0,0.0,20000916,Premier League
+16/09/2000,2000/01,Sunderland,Derby,2,1,H,1.0,0.0,H,Paul Taylor,15.0,10.0,8.0,5.0,16.0,28.0,4.0,5.0,2.0,3.0,0.0,0.0,20000916,Premier League
+16/09/2000,2000/01,Leeds,Ipswich,1,2,A,1.0,1.0,D,Mark Halsey,11.0,12.0,6.0,7.0,12.0,19.0,6.0,3.0,1.0,3.0,0.0,0.0,20000916,Premier League
+11/09/2000,2000/01,Tottenham,West Ham,1,0,H,0.0,0.0,D,Steve Dunn,15.0,11.0,7.0,5.0,14.0,13.0,11.0,3.0,1.0,2.0,0.0,0.0,20000911,Premier League
+10/09/2000,2000/01,Derby,Charlton,2,2,D,2.0,0.0,H,Peter Jones,12.0,10.0,6.0,6.0,17.0,12.0,4.0,11.0,3.0,1.0,0.0,0.0,20000910,Premier League
+9/09/2000,2000/01,Middlesbrough,Everton,1,2,A,1.0,0.0,H,Steve Bennett,9.0,12.0,5.0,9.0,16.0,5.0,7.0,7.0,3.0,0.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Man United,Sunderland,3,0,H,1.0,0.0,H,Neale Barry,15.0,5.0,7.0,1.0,18.0,14.0,4.0,4.0,1.0,3.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Ipswich,Aston Villa,1,2,A,0.0,1.0,A,Andy D'Urso,15.0,5.0,5.0,2.0,9.0,13.0,5.0,3.0,1.0,3.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Liverpool,Man City,3,2,H,1.0,0.0,H,Graham Barber,14.0,9.0,8.0,7.0,17.0,17.0,9.0,4.0,3.0,4.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Bradford,Arsenal,1,1,D,1.0,0.0,H,Alan Wiley,9.0,18.0,5.0,11.0,17.0,13.0,4.0,10.0,0.0,2.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Leicester,Southampton,1,0,H,0.0,0.0,D,Mike Dean,17.0,9.0,6.0,5.0,6.0,9.0,10.0,6.0,0.0,0.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Newcastle,Chelsea,0,0,D,0.0,0.0,D,Graham Poll,10.0,10.0,4.0,3.0,17.0,21.0,5.0,6.0,0.0,3.0,0.0,0.0,20000909,Premier League
+9/09/2000,2000/01,Coventry,Leeds,0,0,D,0.0,0.0,D,Paul Durkin,9.0,11.0,1.0,5.0,15.0,14.0,6.0,6.0,2.0,2.0,0.0,0.0,20000909,Premier League
+6/09/2000,2000/01,Leicester,Ipswich,2,1,H,0.0,0.0,D,Paul Taylor,12.0,7.0,6.0,3.0,12.0,13.0,6.0,2.0,1.0,1.0,0.0,0.0,20000906,Premier League
+6/09/2000,2000/01,Chelsea,Arsenal,2,2,D,1.0,0.0,H,Mike Riley,12.0,13.0,5.0,5.0,16.0,22.0,7.0,6.0,3.0,1.0,0.0,0.0,20000906,Premier League
+6/09/2000,2000/01,Liverpool,Aston Villa,3,1,H,3.0,0.0,H,Neale Barry,11.0,9.0,7.0,4.0,13.0,7.0,8.0,7.0,0.0,2.0,0.0,0.0,20000906,Premier League
+6/09/2000,2000/01,Charlton,Southampton,1,1,D,0.0,0.0,D,Mark Halsey,8.0,11.0,6.0,3.0,14.0,16.0,10.0,14.0,3.0,3.0,1.0,0.0,20000906,Premier League
+6/09/2000,2000/01,Derby,Middlesbrough,3,3,D,0.0,1.0,A,Rob Styles,9.0,5.0,5.0,4.0,8.0,10.0,11.0,5.0,3.0,2.0,0.0,0.0,20000906,Premier League
+6/09/2000,2000/01,Coventry,Newcastle,0,2,A,0.0,1.0,A,Alan Wiley,13.0,13.0,3.0,6.0,11.0,18.0,6.0,8.0,1.0,1.0,0.0,0.0,20000906,Premier League
+5/09/2000,2000/01,Sunderland,West Ham,1,1,D,1.0,1.0,D,Peter Jones,17.0,16.0,7.0,9.0,19.0,14.0,4.0,11.0,2.0,3.0,0.0,0.0,20000905,Premier League
+5/09/2000,2000/01,Leeds,Man City,1,2,A,0.0,2.0,A,Graham Poll,6.0,8.0,1.0,3.0,18.0,24.0,9.0,4.0,2.0,2.0,0.0,0.0,20000905,Premier League
+5/09/2000,2000/01,Man United,Bradford,6,0,H,2.0,0.0,H,Ian Harris,21.0,6.0,12.0,4.0,12.0,10.0,5.0,1.0,0.0,1.0,0.0,0.0,20000905,Premier League
+5/09/2000,2000/01,Tottenham,Everton,3,2,H,1.0,2.0,A,Barry Knight,11.0,11.0,7.0,6.0,11.0,10.0,7.0,5.0,1.0,2.0,0.0,0.0,20000905,Premier League
+27/08/2000,2000/01,Aston Villa,Chelsea,1,1,D,1.0,1.0,D,Paul Durkin,12.0,11.0,9.0,7.0,13.0,12.0,7.0,10.0,0.0,1.0,0.0,0.0,20000827,Premier League
+26/08/2000,2000/01,Newcastle,Tottenham,2,0,H,1.0,0.0,H,David Ellaray,15.0,10.0,6.0,2.0,13.0,10.0,4.0,2.0,0.0,0.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,West Ham,Man United,2,2,D,0.0,1.0,A,Dermot Gallagher,17.0,8.0,8.0,5.0,12.0,9.0,7.0,5.0,1.0,0.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Middlesbrough,Leeds,1,2,A,0.0,2.0,A,Graham Barber,15.0,16.0,8.0,11.0,12.0,20.0,4.0,8.0,2.0,0.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Southampton,Liverpool,3,3,D,0.0,1.0,A,Jeff Winter,14.0,9.0,7.0,4.0,7.0,6.0,7.0,1.0,0.0,0.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Arsenal,Charlton,5,3,H,1.0,2.0,A,Steve Lodge,18.0,7.0,9.0,4.0,12.0,15.0,8.0,3.0,0.0,1.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Man City,Coventry,1,2,A,0.0,2.0,A,Andy D'Urso,14.0,9.0,5.0,8.0,7.0,12.0,5.0,5.0,2.0,3.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Bradford,Leicester,0,0,D,0.0,0.0,D,Steve Bennett,8.0,13.0,4.0,8.0,11.0,12.0,6.0,8.0,1.0,2.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Ipswich,Sunderland,1,0,H,0.0,0.0,D,Graham Poll,14.0,9.0,5.0,3.0,10.0,12.0,7.0,6.0,1.0,1.0,0.0,0.0,20000826,Premier League
+26/08/2000,2000/01,Everton,Derby,2,2,D,2.0,0.0,H,Mike Riley,12.0,7.0,9.0,4.0,11.0,9.0,11.0,2.0,2.0,3.0,0.0,0.0,20000826,Premier League
+23/08/2000,2000/01,West Ham,Leicester,0,1,A,0.0,0.0,D,Rob Styles,17.0,4.0,12.0,2.0,16.0,14.0,11.0,5.0,3.0,3.0,1.0,0.0,20000823,Premier League
+23/08/2000,2000/01,Southampton,Coventry,1,2,A,0.0,1.0,A,F Taylor,12.0,7.0,4.0,5.0,18.0,20.0,6.0,5.0,5.0,3.0,0.0,0.0,20000823,Premier League
+23/08/2000,2000/01,Everton,Charlton,3,0,H,0.0,0.0,D,Andy Hall,13.0,8.0,8.0,4.0,17.0,15.0,3.0,5.0,2.0,1.0,0.0,1.0,20000823,Premier League
+23/08/2000,2000/01,Newcastle,Derby,3,2,H,1.0,1.0,D,Dermot Gallagher,9.0,10.0,4.0,5.0,23.0,11.0,9.0,6.0,0.0,3.0,1.0,0.0,20000823,Premier League
+23/08/2000,2000/01,Man City,Sunderland,4,2,H,2.0,0.0,H,David Ellaray,15.0,9.0,10.0,4.0,24.0,14.0,7.0,3.0,3.0,3.0,0.0,0.0,20000823,Premier League
+22/08/2000,2000/01,Ipswich,Man United,1,1,D,1.0,1.0,D,Jeff Winter,13.0,15.0,8.0,6.0,10.0,7.0,4.0,6.0,1.0,4.0,0.0,0.0,20000822,Premier League
+22/08/2000,2000/01,Middlesbrough,Tottenham,1,1,D,0.0,1.0,A,Peter Jones,12.0,11.0,6.0,4.0,9.0,18.0,5.0,5.0,2.0,1.0,0.0,0.0,20000822,Premier League
+22/08/2000,2000/01,Bradford,Chelsea,2,0,H,1.0,0.0,H,Mark Halsey,12.0,14.0,3.0,6.0,14.0,16.0,6.0,4.0,0.0,1.0,0.0,0.0,20000822,Premier League
+21/08/2000,2000/01,Arsenal,Liverpool,2,0,H,1.0,0.0,H,Graham Poll,17.0,7.0,12.0,4.0,25.0,20.0,10.0,11.0,2.0,4.0,1.0,2.0,20000821,Premier League
+20/08/2000,2000/01,Man United,Newcastle,2,0,H,1.0,0.0,H,Steve Lodge,19.0,9.0,9.0,6.0,7.0,13.0,7.0,1.0,0.0,1.0,0.0,0.0,20000820,Premier League
+19/08/2000,2000/01,Liverpool,Bradford,1,0,H,0.0,0.0,D,Paul Durkin,16.0,3.0,10.0,2.0,8.0,8.0,6.0,1.0,1.0,1.0,0.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Sunderland,Arsenal,1,0,H,0.0,0.0,D,Steve Dunn,8.0,14.0,2.0,7.0,10.0,21.0,2.0,9.0,3.0,1.0,0.0,1.0,20000819,Premier League
+19/08/2000,2000/01,Tottenham,Ipswich,3,1,H,2.0,1.0,H,Alan Wiley,20.0,15.0,6.0,5.0,14.0,13.0,3.0,4.0,0.0,0.0,0.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Charlton,Man City,4,0,H,2.0,0.0,H,Rob Harris,17.0,8.0,14.0,4.0,13.0,12.0,6.0,6.0,1.0,2.0,0.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Leicester,Aston Villa,0,0,D,0.0,0.0,D,Mike Riley,5.0,5.0,4.0,3.0,12.0,12.0,5.0,4.0,2.0,3.0,0.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Leeds,Everton,2,0,H,2.0,0.0,H,Dermot Gallagher,17.0,12.0,8.0,6.0,21.0,20.0,6.0,4.0,1.0,3.0,0.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Derby,Southampton,2,2,D,1.0,2.0,A,Andy D'Urso,6.0,13.0,4.0,6.0,11.0,13.0,5.0,8.0,1.0,1.0,0.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Coventry,Middlesbrough,1,3,A,1.0,1.0,D,Barry Knight,6.0,16.0,3.0,9.0,15.0,21.0,8.0,4.0,5.0,3.0,1.0,0.0,20000819,Premier League
+19/08/2000,2000/01,Chelsea,West Ham,4,2,H,1.0,0.0,H,Graham Barber,17.0,12.0,10.0,5.0,19.0,14.0,7.0,7.0,1.0,2.0,0.0,0.0,20000819,Premier League
