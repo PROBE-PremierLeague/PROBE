@@ -14,7 +14,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-# Exclude from processing
+# Exclude from processing (REMOVED model/ from here)
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -26,14 +26,14 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
-  - src/
-  - model/
   - requirements.txt
   - "*.py"
 
-# Include additional files
+# Include additional directories
 include:
+  - model/
   - docs/
 
-# Collections (if needed)
-collections_dir: docs
+# Keep files during regeneration  
+keep_files:
+  - model/

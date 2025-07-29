@@ -68,7 +68,6 @@
             gap: 20px;
             padding: 0 10px;
             justify-content: center;
-            /* 移除所有可能的transform效果 */
             transform: none !important;
         }
 
@@ -376,13 +375,6 @@
             text-align: center;
         }
 
-        .update-info {
-            text-align: center;
-            color: rgba(255,255,255,0.8);
-            margin-top: 30px;
-            font-size: 0.9rem;
-        }
-
         .status-indicator {
             display: inline-block;
             width: 8px;
@@ -553,13 +545,14 @@
         </div>
     </div>
 
-    <div class="update-info">
-        <span class="status-indicator"></span>
-        Model last updated: <span id="last-update"></span>
-    </div>
-
     <script>
-        // Team data - 确保有20支球队
+        // Global variables
+        let isDataLoaded = false;
+        let currentSeason = '2023-24';
+        let currentSection = 0;
+        let currentNavIndex = 0;
+
+        // Team data
         const teams = {
             'Manchester City': { color: '#6CABDD', logo: '🏆' },
             'Liverpool': { color: '#C8102E', logo: '🔴' },
@@ -583,37 +576,10 @@
             'Sheffield United': { color: '#EE2737', logo: '⚔️' }
         };
 
-        // Mock data for different seasons
-        const seasonData = {
-            '2023-24': {
-                'Manchester City': { attack: 2.52, defense: 0.78, rank: 1, points: 91 },
-                'Arsenal': { attack: 2.31, defense: 0.88, rank: 2, points: 89 },
-                'Liverpool': { attack: 2.28, defense: 1.02, rank: 3, points: 82 },
-                'Chelsea': { attack: 1.75, defense: 1.28, rank: 6, points: 63 },
-                'Manchester United': { attack: 1.68, defense: 1.32, rank: 8, points: 60 },
-                'Tottenham': { attack: 2.15, defense: 1.18, rank: 5, points: 66 },
-                'Newcastle': { attack: 1.85, defense: 1.15, rank: 7, points: 62 },
-                'Brighton': { attack: 1.72, defense: 1.22, rank: 11, points: 48 },
-                'West Ham': { attack: 1.58, defense: 1.45, rank: 14, points: 42 },
-                'Aston Villa': { attack: 1.95, defense: 1.08, rank: 4, points: 68 }
-            },
-            '2022-23': {
-                'Manchester City': { attack: 2.68, defense: 0.82, rank: 1, points: 89 },
-                'Arsenal': { attack: 2.25, defense: 0.95, rank: 2, points: 84 },
-                'Manchester United': { attack: 1.95, defense: 1.15, rank: 3, points: 75 },
-                'Liverpool': { attack: 2.02, defense: 1.22, rank: 5, points: 67 },
-                'Chelsea': { attack: 1.58, defense: 1.35, rank: 12, points: 44 },
-                'Tottenham': { attack: 1.88, defense: 1.28, rank: 8, points: 57 },
-                'Newcastle': { attack: 1.78, defense: 0.95, rank: 4, points: 71 },
-                'Brighton': { attack: 1.65, defense: 1.18, rank: 6, points: 62 },
-                'West Ham': { attack: 1.42, defense: 1.52, rank: 14, points: 40 },
-                'Aston Villa': { attack: 1.55, defense: 1.38, rank: 16, points: 35 }
-            }
-        };
+        // Season data - will be populated from CSV or fallback data
+        let seasonData = {};
 
-        let currentSeason = '2023-24';
-
-        // Generate comprehensive fallback data for all seasons - MOVED TO TOP
+        // Generate comprehensive fallback data for all seasons
         function generateFallbackSeasonData() {
             const seasons = [];
             for (let year = 1993; year <= 2023; year++) {
@@ -657,31 +623,265 @@
                         attack: (baseAttack + attackBonus).toFixed(2),
                         defense: (baseDefense + defenseBonus).toFixed(2),
                         homeAdvantage: (0.1 + Math.random() * 0.4).toFixed(2),
-                        rank: index + 1,
-                        points: Math.floor(25 + Math.random() * 75)
+                        order: index
                     };
-                });
-                
-                // Sort by performance and assign proper ranks
-                const teamEntries = Object.entries(fallbackData[season]);
-                teamEntries.sort((a, b) => {
-                    const scoreA = Number(a[1].attack) - Number(a[1].defense);
-                    const scoreB = Number(b[1].attack) - Number(b[1].defense);
-                    return scoreB - scoreA;
-                });
-                teamEntries.forEach(([teamName, data], index) => {
-                    data.rank = index + 1;
                 });
             });
 
             return fallbackData;
         }
 
+        // Function to load CSV data for all seasons
+        async function loadSeasonData() {
+            console.log('Starting to load season data...');
+            console.log('Current working directory (base URL):', window.location.origin + window.location.pathname);
+
+            try {
+                console.log('Testing model directory access...');
+                
+                // First generate fallback data for all seasons
+                const fallbackData = generateFallbackSeasonData();
+                Object.assign(seasonData, fallbackData);
+                
+                // Then try to load real CSV data for 2023-24
+                const testSeason = '2023-24';
+                const possiblePaths = [
+                    `model/poisson/lambdas/mle-L-BFGS-B-lambdas/2023-2024-parameters.csv`,
+                    `./model/poisson/lambdas/mle-L-BFGS-B-lambdas/2023-2024-parameters.csv`,
+                    `/model/poisson/lambdas/mle-L-BFGS-B-lambdas/2023-2024-parameters.csv`,
+                    `data/2023-2024-parameters.csv`,
+                    `assets/model/poisson/lambdas/mle-L-BFGS-B-lambdas/2023-2024-parameters.csv`
+                ];
+
+                let csvData = null;
+                let workingPath = null;
+
+                for (const filename of possiblePaths) {
+                    try {
+                        console.log(`🔍 Attempting to fetch: ${filename}`);
+                        const response = await fetch(filename);
+                        console.log(`📡 Response status for ${filename}: ${response.status}`);
+                        
+                        if (response.ok) {
+                            csvData = await response.text();
+                            workingPath = filename;
+                            console.log(`✅ Successfully found file at: ${filename}`);
+                            console.log(`📄 CSV data length: ${csvData.length}`);
+                            console.log(`📄 CSV content preview:`, csvData.substring(0, 200));
+                            break;
+                        } else {
+                            console.log(`❌ Failed to fetch ${filename}: HTTP ${response.status}`);
+                        }
+                    } catch (error) {
+                        console.log(`❌ Error fetching ${filename}:`, error.message);
+                    }
+                }
+
+                if (csvData) {
+                    console.log(`CSV data length: ${csvData.length}`);
+                    console.log('CSV content preview:', csvData.substring(0, 200));
+                    
+                    const parsedData = Papa.parse(csvData, {
+                        header: true,
+                        dynamicTyping: true,
+                        skipEmptyLines: true,
+                        delimitersToGuess: [',', '\t', '|', ';']
+                    });
+
+                    console.log(`Parsed data for ${testSeason}:`, parsedData);
+                    console.log('Parsed data fields:', parsedData.meta.fields);
+                    console.log('Number of rows:', parsedData.data.length);
+
+                    // Clear existing data for 2023-24 and load fresh CSV data
+                    seasonData[testSeason] = {};
+                    
+                    // Process each team in the CSV
+                    parsedData.data.forEach((row, index) => {
+                        console.log(`Processing row ${index}:`, row);
+                        if (row.Team && row.Team.trim()) {
+                            const teamName = row.Team.trim();
+                            seasonData[testSeason][teamName] = {
+                                attack: Number(row.Attack || 0).toFixed(2),
+                                defense: Number(row.Defend || 0).toFixed(2),
+                                homeAdvantage: Number(row.HomeAdvantage || 0).toFixed(2),
+                                order: index
+                            };
+                            console.log(`Added team: ${teamName}`, seasonData[testSeason][teamName]);
+                        }
+                    });
+
+                    console.log(`✅ Successfully loaded ${testSeason} from CSV: ${Object.keys(seasonData[testSeason]).length} teams`);
+                    console.log('All teams loaded:', Object.keys(seasonData[testSeason]));
+                    
+                    // Generate seasons list for loading other seasons
+                    const seasons = [];
+                    for (let year = 1993; year <= 2023; year++) {
+                        const seasonKey = `${year}-${String(year + 1).slice(-2)}`;
+                        seasons.push(seasonKey);
+                    }
+                    
+                    // If successful, try to load all other seasons using the working path pattern
+                    if (workingPath) {
+                        await loadAllSeasons(seasons, workingPath);
+                    }
+                    
+                    // Force update the grid if we're currently viewing 2023-24
+                    if (currentSeason === testSeason) {
+                        console.log('Refreshing 2023-24 data display...');
+                        updateTeamGrid();
+                    }
+                }
+                
+                isDataLoaded = true;
+                updateTeamGrid();
+                
+            } catch (error) {
+                console.error('Error loading CSV data:', error);
+                console.log('Using fallback data...');
+                
+                // Ensure fallback data is available
+                if (Object.keys(seasonData).length === 0) {
+                    const fallbackData = generateFallbackSeasonData();
+                    Object.assign(seasonData, fallbackData);
+                }
+                isDataLoaded = true;
+                updateTeamGrid();
+            }
+        }
+
+        // Function to load all seasons
+        async function loadAllSeasons(seasons, workingPathPattern) {
+            console.log('Loading all seasons using pattern:', workingPathPattern);
+            
+            for (const season of seasons) {
+                if (season === '2023-24') continue; // Already loaded
+                
+                try {
+                    // Convert season format properly: handle 90s years correctly
+                    const yearParts = season.split('-');
+                    const startYear = yearParts[0];
+                    const endYearShort = yearParts[1];
+                    
+                    // Handle 90s years (94 -> 1994) vs 2000s years (01 -> 2001)
+                    let endYear;
+                    if (parseInt(endYearShort) >= 94) {
+                        endYear = `19${endYearShort}`;  // 94-99 -> 1994-1999
+                    } else {
+                        endYear = `20${endYearShort}`;  // 00-93 -> 2000-2093
+                    }
+                    
+                    const fullYear = `${startYear}-${endYear}`;
+                    const filename = `model/poisson/lambdas/mle-L-BFGS-B-lambdas/${fullYear}-parameters.csv`;
+                    
+                    console.log(`Attempting to load: ${season} -> ${filename}`);
+                    
+                    const response = await fetch(filename);
+                    if (!response.ok) {
+                        console.warn(`Could not load ${filename}: HTTP ${response.status}`);
+                        continue;
+                    }
+                    
+                    const csvData = await response.text();
+                    const parsedData = Papa.parse(csvData, {
+                        header: true,
+                        dynamicTyping: true,
+                        skipEmptyLines: true,
+                        delimitersToGuess: [',', '\t', '|', ';']
+                    });
+
+                    seasonData[season] = {};
+                    
+                    // Process each team in the CSV
+                    parsedData.data.forEach((row, index) => {
+                        if (row.Team && row.Team.trim()) {
+                            const teamName = row.Team.trim();
+                            seasonData[season][teamName] = {
+                                attack: Number(row.Attack || 0).toFixed(2),
+                                defense: Number(row.Defend || 0).toFixed(2),
+                                homeAdvantage: Number(row.HomeAdvantage || 0).toFixed(2),
+                                order: index
+                            };
+                        }
+                    });
+
+                    console.log(`✅ Successfully loaded ${season}: ${Object.keys(seasonData[season]).length} teams`);
+                    
+                } catch (error) {
+                    console.warn(`❌ Failed to load ${season}:`, error.message);
+                }
+            }
+            
+            console.log(`📊 Total seasons loaded: ${Object.keys(seasonData).length}`);
+        }
+
+        // Function to load a specific season on demand
+        async function loadSpecificSeason(season) {
+            try {
+                // Convert season format: handle 90s years correctly
+                const yearParts = season.split('-');
+                const startYear = yearParts[0];
+                const endYearShort = yearParts[1];
+                
+                // Handle 90s years (94 -> 1994) vs 2000s years (01 -> 2001)
+                let endYear;
+                if (parseInt(endYearShort) >= 94) {
+                    endYear = `19${endYearShort}`;  // 94-99 -> 1994-1999
+                } else {
+                    endYear = `20${endYearShort}`;  // 00-93 -> 2000-2093
+                }
+                
+                const fullYear = `${startYear}-${endYear}`;
+                const filename = `model/poisson/lambdas/mle-L-BFGS-B-lambdas/${fullYear}-parameters.csv`;
+                
+                console.log(`Loading specific season: ${season} -> ${filename}`);
+                
+                const response = await fetch(filename);
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const csvData = await response.text();
+                const parsedData = Papa.parse(csvData, {
+                    header: true,
+                    dynamicTyping: true,
+                    skipEmptyLines: true,
+                    delimitersToGuess: [',', '\t', '|', ';']
+                });
+
+                seasonData[season] = {};
+                
+                // Process each team in the CSV
+                parsedData.data.forEach((row, index) => {
+                    if (row.Team && row.Team.trim()) {
+                        const teamName = row.Team.trim();
+                        seasonData[season][teamName] = {
+                            attack: Number(row.Attack || 0).toFixed(2),
+                            defense: Number(row.Defend || 0).toFixed(2),
+                            homeAdvantage: Number(row.HomeAdvantage || 0).toFixed(2),
+                            order: index
+                        };
+                    }
+                });
+
+                console.log(`✅ Successfully loaded ${season}: ${Object.keys(seasonData[season]).length} teams`);
+                updateTeamGrid();
+                
+            } catch (error) {
+                console.error(`❌ Failed to load season ${season}:`, error);
+                // Show error message
+                const grid = document.getElementById('team-grid');
+                grid.innerHTML = `<div style="text-align: center; padding: 40px; color: #666;">
+                    Failed to load data for ${season} season.<br>
+                    <small>Error: ${error.message}</small>
+                </div>`;
+            }
+        }
+
         // Navigation functions
         function slideNav(direction) {
             currentNavIndex += direction;
-            if (currentNavIndex < 0) currentNavIndex = totalCards - 1;
-            if (currentNavIndex >= totalCards) currentNavIndex = 0;
+            if (currentNavIndex < 0) currentNavIndex = 2;
+            if (currentNavIndex >= 3) currentNavIndex = 0;
             
             updateNavPosition();
             updateIndicators();
@@ -742,7 +942,6 @@
                             <span style="margin-right: 10px;">⚽</span>
                             ${teamName}
                         </div>
-                        <div class="team-rank">Rank #${data.rank}</div>
                     </div>
                     <div class="lambda-stats">
                         <div class="lambda-item lambda-attack">
@@ -754,13 +953,8 @@
                             <div class="lambda-label">λ Defense</div>
                         </div>
                     </div>
-                    <div style="display: grid; grid-template-columns: 1fr; gap: 10px; margin-top: 15px;">
-                        <div style="text-align: center;">
-                            <strong>Home Advantage: ${data.homeAdvantage}</strong>
-                        </div>
-                        <div style="text-align: center;">
-                            <small>Est. Points: ${data.points}</small>
-                        </div>
+                    <div style="text-align: center; margin-top: 15px;">
+                        <strong>Home Advantage: ${data.homeAdvantage}</strong>
                     </div>
                 </div>
             `;
@@ -771,7 +965,8 @@
             
             const grid = document.getElementById('team-grid');
             
-            if (!isDataLoaded && Object.keys(seasonData).length === 0) {
+            // Show loading if no data at all
+            if (Object.keys(seasonData).length === 0) {
                 grid.innerHTML = '<div style="text-align: center; padding: 40px; color: #666;">⏳ Loading season data...</div>';
                 return;
             }
@@ -783,8 +978,9 @@
             console.log('Data for current season:', data);
             
             if (!data || Object.keys(data).length === 0) {
+                // Show loading message for this specific season
                 grid.innerHTML = `<div style="text-align: center; padding: 40px; color: #666;">
-                    📊 No data available for ${currentSeason} season.<br>
+                    ⏳ Loading data for ${currentSeason} season...<br>
                     <small>Available seasons: ${Object.keys(seasonData).join(', ')}</small>
                 </div>`;
                 return;
@@ -792,8 +988,8 @@
             
             console.log(`Season: ${currentSeason}, Teams count: ${Object.keys(data).length}`);
             
-            // Sort teams by rank
-            const sortedTeams = Object.entries(data).sort((a, b) => a[1].rank - b[1].rank);
+            // Sort teams alphabetically
+            const sortedTeams = Object.entries(data).sort((a, b) => a[0].localeCompare(b[0]));
             
             console.log('Sorted teams:', sortedTeams.map(([name]) => name));
             
@@ -804,84 +1000,26 @@
             console.log('Generated HTML length:', cardsHtml.length);
             
             grid.innerHTML = cardsHtml;
-            
-            // Update status
-            const statusElement = document.getElementById('last-update');
-            if (statusElement) {
-                statusElement.textContent = `${new Date().toLocaleString()} | ${sortedTeams.length} teams loaded`;
-            }
         }
 
         function updateSeason() {
             currentSeason = document.getElementById('season').value;
             console.log('Season changed to:', currentSeason);
             
-            // Check if data exists for this season
-            if (seasonData[currentSeason]) {
-                updateTeamGrid();
-            } else {
-                // Try to load this specific season
-                loadSpecificSeason(currentSeason);
-            }
-        }
-
-        // Function to load a specific season on demand
-        async function loadSpecificSeason(season) {
-            try {
-                                    const filename = `model/poisson/lambdas/mle-L-BFGS-B-lambdas/${season.replace('-', '-')}-parameters.csv`;
-                console.log(`Loading specific season: ${filename}`);
-                
-                const response = await fetch(filename);
-                if (!response.ok) {
-                    throw new Error(`HTTP error! status: ${response.status}`);
+            // Always update the grid first with existing data (fallback or real)
+            updateTeamGrid();
+            
+            // For 2023-24, try to load real CSV data if not already loaded with real data
+            if (currentSeason === '2023-24') {
+                // Check if we have real CSV data (more than 10 teams suggests real data vs fallback)
+                const currentData = seasonData[currentSeason];
+                if (!currentData || Object.keys(currentData).length <= 10) {
+                    console.log('Attempting to load real 2023-24 CSV data...');
+                    loadSpecificSeason(currentSeason);
                 }
-                
-                const csvData = await response.text();
-                const parsedData = Papa.parse(csvData, {
-                    header: true,
-                    dynamicTyping: true,
-                    skipEmptyLines: true,
-                    delimitersToGuess: [',', '\t', '|', ';']
-                });
-
-                seasonData[season] = {};
-                
-                // Process each team in the CSV
-                parsedData.data.forEach((row, index) => {
-                    if (row.Team && row.Team.trim()) {
-                        const teamName = row.Team.trim();
-                        seasonData[season][teamName] = {
-                            attack: Number(row.Attack || 0).toFixed(2),
-                            defense: Number(row.Defend || 0).toFixed(2),
-                            homeAdvantage: Number(row.HomeAdvantage || 0).toFixed(2),
-                            rank: index + 1,
-                            points: Math.floor(30 + (3 - Number(row.Defend || 1.5)) * 20 + Number(row.Attack || 1.5) * 15)
-                        };
-                    }
-                });
-
-                // Sort teams by estimated performance and assign ranks
-                const teamEntries = Object.entries(seasonData[season]);
-                teamEntries.sort((a, b) => {
-                    const scoreA = Number(a[1].attack) - Number(a[1].defense);
-                    const scoreB = Number(b[1].attack) - Number(b[1].defense);
-                    return scoreB - scoreA;
-                });
-                teamEntries.forEach(([teamName, data], index) => {
-                    data.rank = index + 1;
-                });
-
-                console.log(`Successfully loaded ${season}: ${Object.keys(seasonData[season]).length} teams`);
-                updateTeamGrid();
-                
-            } catch (error) {
-                console.error(`Failed to load season ${season}:`, error);
-                // Show error message
-                const grid = document.getElementById('team-grid');
-                grid.innerHTML = `<div style="text-align: center; padding: 40px; color: #666;">
-                    Failed to load data for ${season} season.<br>
-                    <small>Error: ${error.message}</small>
-                </div>`;
+            } else if (!seasonData[currentSeason]) {
+                // For other seasons, only load if data doesn't exist
+                loadSpecificSeason(currentSeason);
             }
         }
 
@@ -1000,16 +1138,13 @@
 
         // Initialize
         document.addEventListener('DOMContentLoaded', function() {
-            // Use fallback data directly for now
-            console.log('DOM loaded, initializing with fallback data...');
-            const fallbackData = generateFallbackSeasonData();
-            Object.assign(seasonData, fallbackData); // Use Object.assign instead of reassignment
-            isDataLoaded = true;
-            updateTeamGrid();
+            console.log('DOM loaded, initializing...');
             
-            document.getElementById('last-update').textContent = new Date().toLocaleString();
+            // Initialize with empty data first
+            isDataLoaded = false;
+            updateTeamGrid(); // Show loading message
             
-            // Then try to load real CSV data in background
+            // Try to load real CSV data, with fallback
             loadSeasonData();
         });
     </script>
