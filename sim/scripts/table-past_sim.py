@@ -64,8 +64,8 @@ def build_league_table(standings):
     df_table.sort_values(by=['Pts', 'GD', 'GF'], ascending=False, inplace=True)
     df_table.reset_index(drop=True, inplace=True)
 
-    # Insert rank as the first column
-    df_table.insert(0, 'rank', df_table.index)
+    # Insert rank as the first column (starting from 1)
+    df_table.insert(0, 'rank', df_table.index + 1)
     return df_table
 
 
