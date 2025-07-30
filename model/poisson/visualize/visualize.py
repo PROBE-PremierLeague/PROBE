@@ -25,8 +25,8 @@ DEFENSE_COLOR = '#55babe'
 
 # Read and sort data
 base_dir = Path(__file__).parent.parent if '__file__' in locals() else Path.cwd()
-#file_path = base_dir / "lambdas" / "mle-L-BFGS-B-lambdas" / "2023-2024-parameters.csv"
-file_path = base_dir / "lambdas" / "mle-LS-lambdas" / "2023-2024-parameters.csv"
+file_path = base_dir / "lambdas" / "mle-L-BFGS-B-lambdas" / "2023-2024-parameters.csv"
+#file_path = base_dir / "lambdas" / "mle-LS-lambdas" / "2023-2024-parameters.csv"
 data = pd.read_csv(file_path)
 data = data.sort_values('Attack', ascending=True)  # Sort by attack strength
 
@@ -70,9 +70,25 @@ legend.get_frame().set_edgecolor('gray')
 # Adjust layout
 plt.tight_layout()
 
+xlabel_obj = ax_main.xaxis.get_label()
+xlabel_pos = xlabel_obj.get_position()
+text_content = f"Home Advantage = {float(data['HomeAdvantage'][0]):.5f}"
+ax_main.text(
+    0.7,  
+    0.02,  
+    text_content,
+    fontsize=16,  fontweight='bold',
+    ha='left',  
+    va='bottom',  
+    transform=fig.transFigure  
+)
+
 # Save with high quality
-#plt.savefig('.\model\poisson\lambdas\L-BFGS-B_analysis.png',
-plt.savefig('.\model\poisson\lambdas\LS_analysis.png',
+base_dir = Path(__file__).parent.parent if '__file__' in locals() else Path.cwd()
+save_path = base_dir / "lambdas" / "L-BFGS-B_analysis.png"
+#save_path = base_dir / "lambdas" / "LS_analysis.png"
+
+plt.savefig(str(save_path),
             dpi=600,
             bbox_inches='tight',
             facecolor='white',
